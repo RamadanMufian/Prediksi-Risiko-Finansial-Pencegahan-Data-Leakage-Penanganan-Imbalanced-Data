@@ -1,0 +1,1126 @@
+customer_id,segment,invoice_date,due_date,amount,term_days,risk_score,expected_risk_exposure,risk_tier,is_late,recommended_action
+103,horeca,2025-12-18,2026-02-01,121476000.0,45,0.8992956590158544,109242839.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+136,horeca,2025-08-22,2025-09-21,102006000.0,30,0.8032700361074188,81938363.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+58,retail,2025-11-18,2025-12-18,72527000.0,30,0.9637543416469189,69898211.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+79,grosir,2025-09-01,2025-10-01,87567000.0,30,0.7857891485651842,68809198.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+40,retail,2025-07-10,2025-07-24,138891000.0,14,0.3733633897814344,51856815.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+18,horeca,2025-08-02,2025-09-01,56188000.0,30,0.8698203788155798,48873467.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+118,retail,2025-10-18,2025-11-17,53688000.0,30,0.7967740070069937,42777203.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+37,grosir,2025-11-28,2025-12-28,55083000.0,30,0.7736481644242945,42614862.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+138,grosir,2025-07-19,2025-08-02,54466000.0,14,0.7644444973087736,41636234.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+67,retail,2025-07-17,2025-08-16,53075000.0,30,0.7779439384025024,41289375.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+91,grosir,2025-10-09,2025-11-08,53427000.0,30,0.7081382324802674,37833701.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+122,retail,2025-08-27,2025-10-26,37857000.0,60,0.9875099478926587,37384164.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+62,grosir,2025-08-01,2025-09-15,54578000.0,45,0.6752009501988949,36851117.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+42,grosir,2025-08-18,2025-09-17,76252000.0,30,0.44583404021677003,33995737.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+77,grosir,2025-11-26,2025-12-26,86862000.0,30,0.38702566442771125,33617823.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+34,grosir,2025-08-08,2025-08-22,57270000.0,14,0.5652902701889359,32374174.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+88,retail,2025-10-10,2025-11-09,106515000.0,30,0.30155240637711594,32119855.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+146,retail,2025-10-10,2025-11-09,56354000.0,30,0.5482289289603034,30894893.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+27,retail,2025-08-16,2025-10-15,32655000.0,60,0.9220182776786469,30108507.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+58,retail,2025-09-11,2025-10-26,29877000.0,45,0.9796530348286226,29269094.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+146,retail,2025-10-25,2025-12-09,137152000.0,45,0.21103291420422088,28943586.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+148,retail,2025-07-16,2025-08-15,31901000.0,30,0.8881594858529624,28333176.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+40,retail,2025-06-28,2025-07-12,78537000.0,14,0.35612639624191866,27969099.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+138,grosir,2025-08-04,2025-09-03,61859000.0,30,0.4490160607835647,27775685.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+43,retail,2025-07-20,2025-08-19,34495000.0,30,0.8030371824105107,27700768.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+64,grosir,2025-09-09,2025-10-09,68756000.0,30,0.3974266652523596,27325468.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+122,retail,2025-08-14,2025-09-13,27734000.0,30,0.9605064219948187,26638685.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+111,retail,2025-10-03,2025-11-02,27577000.0,30,0.9343075903235765,25765400.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+8,retail,2025-10-27,2025-12-26,28573000.0,60,0.901265320012435,25751854.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+103,horeca,2025-08-03,2025-09-17,26471000.0,45,0.9313027312233922,24652515.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+122,retail,2025-10-08,2025-10-22,25596000.0,14,0.9615241998875074,24611173.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+119,grosir,2025-09-05,2025-10-20,32997000.0,45,0.736852953571925,24313937.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+112,retail,2025-09-23,2025-10-07,67604000.0,14,0.3578562555207932,24192514.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+139,retail,2025-09-15,2025-10-15,150119000.0,30,0.15215752108679312,22841735.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+136,horeca,2025-09-19,2025-11-03,33032000.0,45,0.6885035882202859,22742651.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+7,grosir,2025-07-25,2025-08-24,27363000.0,30,0.8310435668823796,22739845.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+131,horeca,2025-09-01,2025-10-01,26068000.0,30,0.835889554189889,21789969.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+148,retail,2025-08-16,2025-09-15,25372000.0,30,0.858373657946479,21778656.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+88,retail,2025-11-07,2025-12-22,55640000.0,45,0.39096555035303165,21753323.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+20,grosir,2025-12-11,2026-01-10,22131000.0,30,0.9808533665602348,21707266.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+121,grosir,2025-12-16,2026-01-30,21882000.0,45,0.9801865950671043,21448443.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+18,horeca,2025-09-22,2025-10-06,39180000.0,14,0.5419764793860399,21234638.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+9,grosir,2025-06-27,2025-07-27,30920000.0,30,0.683109024264204,21121731.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+32,retail,2025-07-01,2025-08-30,72866000.0,60,0.2885695994471867,21026912.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+107,retail,2025-10-21,2025-12-05,48990000.0,45,0.4288714794075961,21010414.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+118,retail,2025-08-08,2025-09-07,29946000.0,30,0.6881115189720002,20606188.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+103,horeca,2025-07-15,2025-07-29,21511000.0,14,0.9401792690113824,20224196.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+2,horeca,2025-08-12,2025-08-26,35406000.0,14,0.558267414022951,19766016.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+61,grosir,2025-07-15,2025-08-14,42309000.0,30,0.4659253454420937,19712835.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+130,retail,2025-10-07,2025-11-06,44426000.0,30,0.4374740082368336,19435220.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+43,retail,2025-08-29,2025-09-28,31822000.0,30,0.6057968488904538,19277667.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+35,retail,2025-10-12,2025-12-11,20465000.0,60,0.9367960525840248,19171531.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+124,retail,2025-07-03,2025-08-17,26803000.0,45,0.702793146242961,18836965.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+107,retail,2025-07-14,2025-09-12,26127000.0,60,0.7088584018180855,18520343.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+31,horeca,2025-09-27,2025-10-27,29143000.0,30,0.6352769621481308,18513877.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+12,grosir,2025-07-02,2025-07-16,39261000.0,14,0.45988236944251953,18055442.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+122,retail,2025-09-26,2025-10-26,18235000.0,30,0.9808779520379165,17886309.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+26,grosir,2025-10-31,2025-11-14,25497000.0,14,0.694379600949172,17704597.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+31,horeca,2025-08-22,2025-09-21,30608000.0,30,0.5776434223945162,17680510.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+14,retail,2025-07-01,2025-08-15,41919000.0,45,0.42021994086280673,17615200.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+43,retail,2025-11-24,2026-01-08,34787000.0,45,0.5054279222308535,17582321.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+42,grosir,2025-08-02,2025-09-01,28228000.0,30,0.6218294993044119,17553003.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+132,grosir,2025-10-29,2025-11-28,32578000.0,30,0.5386025347030139,17546593.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+58,retail,2025-09-30,2025-10-14,18296000.0,14,0.9432253760281673,17257251.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+85,retail,2025-09-19,2025-11-03,47366000.0,45,0.36384572504947343,17233917.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+97,retail,2025-10-15,2025-11-14,23532000.0,30,0.7298707647278769,17175319.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+47,retail,2025-09-07,2025-10-07,62719000.0,30,0.2719474558911592,17056272.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+70,retail,2025-09-05,2025-10-20,34774000.0,45,0.4843945405455647,16844336.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+77,grosir,2025-09-24,2025-10-24,87292000.0,30,0.1908503702629977,16659711.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+49,retail,2025-12-28,2026-01-27,76193000.0,30,0.21677044350365815,16516390.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+93,retail,2025-08-18,2025-10-02,42064000.0,45,0.3922466788505541,16499464.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+111,retail,2025-08-16,2025-09-15,17044000.0,30,0.9298710403187861,15848722.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+66,grosir,2025-08-26,2025-10-10,29880000.0,45,0.5283994787336245,15788576.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+142,horeca,2025-10-28,2025-12-12,38894000.0,45,0.4031076219851281,15678468.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+115,horeca,2025-10-03,2025-11-02,35040000.0,30,0.4432339404460273,15530917.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+121,grosir,2025-09-01,2025-10-31,15729000.0,60,0.9862695628945382,15513034.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+39,grosir,2025-08-05,2025-09-19,33907000.0,45,0.45426575273776454,15402789.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+131,horeca,2025-11-13,2025-12-13,22750000.0,30,0.6738045855751735,15329054.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+97,retail,2025-07-02,2025-08-01,24976000.0,30,0.6072833396339878,15167509.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+111,retail,2025-09-03,2025-10-03,17980000.0,30,0.8403728366850857,15109904.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+103,horeca,2025-09-07,2025-10-07,23960000.0,30,0.6290868728033971,15072921.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+37,grosir,2025-09-07,2025-10-22,29928000.0,45,0.5019501083619818,15022363.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+13,horeca,2025-07-25,2025-08-08,30969000.0,14,0.48331890384802473,14967903.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+112,retail,2025-08-10,2025-10-09,21116000.0,60,0.7041792793238977,14869450.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+79,grosir,2025-10-31,2025-12-15,26017000.0,45,0.5688156433611293,14798877.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+19,grosir,2025-07-26,2025-08-25,41086000.0,30,0.35995953850923534,14789298.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+111,retail,2025-08-09,2025-09-23,16324000.0,45,0.9039085160279372,14755403.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+8,retail,2025-07-06,2025-08-20,16708000.0,45,0.8743492970289634,14608628.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+20,grosir,2025-12-30,2026-01-29,14942000.0,30,0.9682960919395805,14468280.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+143,grosir,2025-08-23,2025-10-07,40298000.0,45,0.35549762754204745,14325843.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+101,grosir,2025-09-05,2025-11-04,31556000.0,60,0.4515509242318695,14249141.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+4,retail,2025-10-14,2025-11-13,63004000.0,30,0.22261782904125751,14025814.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+86,grosir,2025-11-02,2025-12-02,41181000.0,30,0.33238338163695424,13687880.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+106,retail,2025-08-01,2025-08-15,65354000.0,14,0.20889386589302603,13652050.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+23,horeca,2025-09-02,2025-10-02,82769000.0,30,0.16443416572072514,13610051.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+122,retail,2025-10-25,2025-12-09,14074000.0,45,0.9596515757251823,13506136.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+32,retail,2025-08-03,2025-09-17,43457000.0,45,0.29943976573805403,13012754.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+14,retail,2025-07-29,2025-08-12,27322000.0,14,0.47076747055346085,12862309.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+136,horeca,2025-12-23,2026-02-06,32781000.0,45,0.3913855878082849,12830011.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+29,grosir,2025-07-26,2025-08-25,37317000.0,30,0.3425912978476788,12784479.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+7,grosir,2025-07-22,2025-08-05,20237000.0,14,0.6217246554864442,12581842.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+79,grosir,2025-08-02,2025-09-01,14699000.0,30,0.8393386393320181,12337439.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+115,horeca,2025-08-14,2025-09-13,34715000.0,30,0.34637212070146156,12024308.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+93,retail,2025-10-29,2025-11-28,30135000.0,30,0.39509125252943916,11906075.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+27,retail,2025-06-25,2025-07-09,18526000.0,14,0.6394473783509931,11846402.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+45,horeca,2025-07-11,2025-08-25,38983000.0,45,0.30386606212692463,11845611.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+44,horeca,2025-07-07,2025-08-06,46263000.0,30,0.2553718418057765,11814268.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+18,horeca,2025-08-17,2025-09-16,28156000.0,30,0.4193580710302645,11807446.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+92,retail,2025-08-01,2025-09-30,22253000.0,60,0.5286033288136291,11763010.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+17,retail,2025-09-06,2025-10-06,28301000.0,30,0.4152123894077552,11750926.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+70,retail,2025-10-04,2025-11-03,26281000.0,30,0.4365931756190555,11474105.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+90,retail,2025-11-15,2025-12-30,14802000.0,45,0.7655288422473384,11331358.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+39,grosir,2025-09-11,2025-10-11,44514000.0,30,0.2541213041999871,11311956.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+1,retail,2025-10-12,2025-11-26,36486000.0,45,0.30937494821783845,11287854.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+48,grosir,2025-09-10,2025-10-10,30733000.0,30,0.3655714973025192,11235109.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+69,retail,2025-10-10,2025-11-09,38901000.0,30,0.28785296362641777,11197768.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+4,retail,2025-07-25,2025-08-24,25075000.0,30,0.4441179460440406,11136257.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+91,grosir,2025-11-24,2025-12-24,43870000.0,30,0.25327821210090645,11111315.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+67,retail,2025-10-07,2025-11-06,31459000.0,30,0.35306522453823946,11107079.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+54,grosir,2025-07-04,2025-08-03,22858000.0,30,0.48473880515601664,11080160.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+98,retail,2025-07-06,2025-08-20,18307000.0,45,0.6045506231848337,11067508.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+119,grosir,2025-12-15,2026-01-14,21190000.0,30,0.5203499678788971,11026216.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+46,retail,2025-06-27,2025-08-11,15568000.0,45,0.698852337904294,10879733.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+64,grosir,2025-07-07,2025-07-21,16876000.0,14,0.6395285918305922,10792685.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+77,grosir,2025-11-04,2026-01-03,21588000.0,60,0.4950962692075787,10688138.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+55,grosir,2025-08-21,2025-09-20,43183000.0,30,0.2463196223349773,10636820.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+42,grosir,2025-08-27,2025-09-26,17682000.0,30,0.5996610055054982,10603206.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+20,grosir,2025-10-26,2025-11-25,11183000.0,30,0.9282048031538525,10380114.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+62,grosir,2025-06-30,2025-07-30,27811000.0,30,0.37034183626328754,10299577.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+13,horeca,2025-09-14,2025-10-14,27823000.0,30,0.36699602209364096,10210930.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+108,retail,2025-10-02,2025-11-16,28776000.0,45,0.35392783785730947,10184627.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+13,horeca,2025-09-12,2025-11-11,31596000.0,60,0.3128575207647119,9885046.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+128,retail,2025-11-04,2026-01-03,24956000.0,60,0.3946380270487974,9848587.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+135,retail,2025-08-10,2025-09-09,20994000.0,30,0.46017667355515174,9660949.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+131,horeca,2025-07-22,2025-09-05,14908000.0,45,0.6456179723725775,9624873.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+17,retail,2025-06-26,2025-07-26,37300000.0,30,0.2562577280501056,9558413.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+147,grosir,2025-10-09,2025-11-08,28548000.0,30,0.33468014163972976,9554449.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+94,retail,2025-10-01,2025-10-31,42429000.0,30,0.22197738612469525,9418279.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+120,grosir,2025-07-05,2025-08-04,35098000.0,30,0.26475799732741584,9292476.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+92,retail,2025-07-09,2025-09-07,15145000.0,60,0.6119252000955235,9267607.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+32,retail,2025-09-29,2025-10-29,36582000.0,30,0.2530233431660702,9256100.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+45,horeca,2025-08-12,2025-09-11,18589000.0,30,0.49693467136562797,9237519.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+71,retail,2025-08-25,2025-09-08,17705000.0,14,0.5175808002918487,9163768.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+22,horeca,2025-11-29,2025-12-29,20050000.0,30,0.45663498921627105,9155532.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+111,retail,2025-10-02,2025-10-16,18760000.0,14,0.4854359814639646,9106779.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+148,retail,2025-09-26,2025-11-10,14732000.0,45,0.6181034819168355,9105900.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+26,grosir,2025-11-16,2025-12-31,11169000.0,45,0.8137929016474805,9089253.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+128,retail,2025-08-07,2025-09-06,23010000.0,30,0.3941441456363166,9069257.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+2,horeca,2025-12-12,2025-12-26,42723000.0,14,0.2103167262379793,8985361.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+58,retail,2025-11-29,2026-01-28,9702000.0,60,0.9155857899612625,8883013.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+5,horeca,2025-06-28,2025-07-12,14813000.0,14,0.5966088670033678,8837567.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+33,retail,2025-08-16,2025-09-30,31800000.0,45,0.2778210617855493,8834710.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+61,grosir,2025-09-29,2025-11-28,29650000.0,60,0.2963188180812022,8785853.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+59,retail,2025-09-06,2025-10-06,28349000.0,30,0.3069816350531346,8702622.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+104,grosir,2025-07-03,2025-07-17,25143000.0,14,0.3438132432841014,8644496.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+86,grosir,2025-12-30,2026-01-29,28015000.0,30,0.3066166047960374,8589864.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+4,retail,2025-07-22,2025-08-21,24672000.0,30,0.34783598767304774,8581809.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+26,grosir,2025-07-11,2025-08-10,9206000.0,30,0.9316227992867393,8576519.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+57,grosir,2025-07-10,2025-08-09,17632000.0,30,0.47999451803753895,8463263.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+130,retail,2025-10-04,2025-11-03,25692000.0,30,0.328765387068129,8446640.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+114,retail,2025-09-21,2025-11-05,38578000.0,45,0.21819947201516784,8417699.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+140,grosir,2025-09-21,2025-10-21,42168000.0,30,0.19842488197350677,8367180.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+25,retail,2025-12-18,2026-02-16,11682000.0,60,0.7135663207825014,8335882.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+79,grosir,2025-08-14,2025-09-13,11454000.0,30,0.7250414289140521,8304625.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+14,retail,2025-07-25,2025-09-08,20045000.0,45,0.4133294182286596,8285188.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+144,grosir,2025-06-26,2025-07-26,38099000.0,30,0.2173809565773763,8281997.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+100,horeca,2025-12-17,2026-01-31,33525000.0,45,0.2466751641732535,8269785.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+128,retail,2025-07-24,2025-09-07,19239000.0,45,0.4290349420117985,8254203.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+68,retail,2025-09-02,2025-10-02,21522000.0,30,0.3811226133214397,8202521.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+13,horeca,2025-07-15,2025-08-29,25292000.0,45,0.3219324334603762,8142315.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+58,retail,2025-08-09,2025-09-08,8564000.0,30,0.9497478473341482,8133641.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+16,grosir,2025-08-26,2025-09-25,18721000.0,30,0.432895833555664,8104243.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+77,grosir,2025-08-21,2025-09-20,18136000.0,30,0.4453668040840971,8077172.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+80,grosir,2025-07-28,2025-08-11,44177000.0,14,0.18201666443200945,8040950.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+120,grosir,2025-07-07,2025-07-21,48690000.0,14,0.16488652521355665,8028325.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+92,retail,2025-07-27,2025-09-25,16907000.0,60,0.47431484255278983,8019241.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+139,retail,2025-09-06,2025-11-05,45535000.0,60,0.1760222519651323,8015173.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+134,grosir,2025-09-12,2025-09-26,33875000.0,14,0.2355582994095743,7979537.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+122,retail,2025-09-22,2025-10-22,9153000.0,30,0.8695724627686519,7959197.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+126,retail,2025-08-02,2025-09-16,21054000.0,45,0.36939529855625874,7777249.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+116,grosir,2025-09-18,2025-10-02,19392000.0,14,0.3993182893077012,7743580.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+58,retail,2025-09-17,2025-10-17,10179000.0,30,0.7557185151910345,7692459.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+138,grosir,2025-06-28,2025-07-28,14608000.0,30,0.5141545852276057,7510770.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+133,retail,2025-10-03,2025-11-02,21039000.0,30,0.3559990141065906,7489863.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+128,retail,2025-08-24,2025-09-07,26015000.0,14,0.2867164166284377,7458928.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+85,retail,2025-10-10,2025-11-09,22803000.0,30,0.3246118358871407,7402124.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+13,horeca,2025-12-24,2026-02-07,43871000.0,45,0.1679206497508477,7366847.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+112,retail,2025-07-10,2025-09-08,13845000.0,60,0.530936371877871,7350814.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+84,retail,2025-08-18,2025-10-02,19407000.0,45,0.37868865670893237,7349211.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+148,retail,2025-11-19,2025-12-03,23120000.0,14,0.3175859530160332,7342587.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+58,retail,2025-09-13,2025-10-13,8584000.0,30,0.8462629961913771,7264322.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+36,retail,2025-10-31,2025-12-15,20539000.0,45,0.35194665637170514,7228632.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+140,grosir,2025-08-20,2025-09-03,25003000.0,14,0.287210017867412,7181112.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+24,grosir,2025-09-02,2025-10-02,38407000.0,30,0.18520345079169553,7113109.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+142,horeca,2025-10-05,2025-11-19,21583000.0,45,0.32802724496859836,7079812.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+105,grosir,2025-08-23,2025-10-22,18717000.0,60,0.37790858874123623,7073315.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+148,retail,2025-07-02,2025-08-16,10474000.0,45,0.6745917789819524,7065674.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+40,retail,2025-07-02,2025-08-01,26284000.0,30,0.2662692391230168,6998621.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+25,retail,2025-10-26,2025-11-25,11834000.0,30,0.5892679624168923,6973397.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+11,horeca,2025-08-22,2025-09-21,15106000.0,30,0.4605094666805916,6956456.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+135,retail,2025-06-28,2025-07-28,17379000.0,30,0.39881828642685185,6931063.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+7,grosir,2025-12-12,2026-01-11,16933000.0,30,0.40872791905338257,6920990.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+90,retail,2025-10-13,2025-11-12,11949000.0,30,0.5783965669230735,6911261.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+69,retail,2025-10-01,2025-10-15,30333000.0,14,0.22650808806212414,6870670.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+113,grosir,2025-08-25,2025-10-24,29187000.0,60,0.23533405786537606,6868695.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+56,grosir,2025-11-10,2025-12-25,71528000.0,45,0.09545333930747349,6827586.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+3,grosir,2025-11-15,2025-12-30,35991000.0,45,0.18934803926795168,6814825.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+27,retail,2025-07-08,2025-09-06,11523000.0,60,0.5882143160028843,6777994.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+66,grosir,2025-08-03,2025-09-02,21434000.0,30,0.31614674004202115,6776289.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+16,grosir,2025-11-07,2025-12-07,21456000.0,30,0.3156011755232974,6771539.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+124,retail,2025-09-16,2025-09-30,63779000.0,14,0.10539332492119366,6721881.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+35,retail,2025-09-13,2025-10-28,16127000.0,45,0.41513969357127073,6694958.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+115,horeca,2025-09-25,2025-11-09,59549000.0,45,0.1124158248258882,6694250.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+68,retail,2025-12-30,2026-01-29,16350000.0,30,0.40716094861105,6657082.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+128,retail,2025-06-28,2025-07-28,11249000.0,30,0.5916792946824251,6655800.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+20,grosir,2025-07-26,2025-08-09,7322000.0,14,0.9062033952043576,6635221.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+119,grosir,2025-08-21,2025-09-20,13793000.0,30,0.47201409582939574,6510490.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+103,horeca,2025-10-15,2025-11-14,14261000.0,30,0.45314875591710874,6462354.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+25,retail,2025-10-12,2025-11-26,8915000.0,45,0.7241869335600106,6456127.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+95,grosir,2025-08-04,2025-10-03,14651000.0,60,0.43297284635780586,6343485.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+97,retail,2025-07-26,2025-08-09,14647000.0,14,0.4266924035735013,6249764.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+123,retail,2025-07-05,2025-08-04,23692000.0,30,0.2620468520973508,6208414.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+147,grosir,2025-08-04,2025-08-18,13576000.0,14,0.45496144431942287,6176557.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+121,grosir,2025-12-03,2026-01-17,6895000.0,45,0.8870942697766037,6116515.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+20,grosir,2025-10-20,2025-11-19,6503000.0,30,0.9399065537815455,6112212.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+133,retail,2025-11-16,2025-12-31,21594000.0,45,0.2828617321003038,6108116.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+69,retail,2025-09-18,2025-10-18,28018000.0,30,0.21456654454440796,6011725.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+23,horeca,2025-07-14,2025-08-13,22963000.0,30,0.26147347377528035,6004215.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+12,grosir,2025-10-06,2025-11-05,20019000.0,30,0.2987040868256815,5979757.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+84,retail,2025-07-15,2025-09-13,29583000.0,60,0.19937782904121285,5898194.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+10,retail,2025-08-29,2025-09-12,25232000.0,14,0.23152883487454845,5841936.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+35,retail,2025-08-14,2025-09-13,8428000.0,30,0.6927855772508973,5838797.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+114,retail,2025-10-06,2025-11-05,27910000.0,30,0.20899031963652948,5832920.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+74,retail,2025-10-02,2025-10-16,27837000.0,14,0.20880698900094735,5812560.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+26,grosir,2025-10-17,2025-11-16,7048000.0,30,0.8213523260358888,5788891.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+0,grosir,2025-08-18,2025-09-17,12560000.0,30,0.4606735961580343,5786060.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+5,horeca,2025-10-07,2025-11-06,23439000.0,30,0.24406905046178456,5720734.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+96,retail,2025-08-22,2025-09-05,21797000.0,14,0.26080970852932533,5684869.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+28,retail,2025-07-09,2025-08-23,17962000.0,45,0.3162866369401757,5681141.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+36,retail,2025-08-28,2025-09-27,13649000.0,30,0.4146617092716452,5659718.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+41,horeca,2025-12-18,2026-01-17,27799000.0,30,0.20282253154371258,5638264.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+76,retail,2025-06-28,2025-08-12,13600000.0,45,0.4104259999485785,5581794.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+78,grosir,2025-09-05,2025-10-05,20867000.0,30,0.26746891884060114,5581274.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+54,grosir,2025-07-29,2025-09-27,28697000.0,60,0.19290349081940827,5535751.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+81,retail,2025-07-30,2025-09-28,23754000.0,60,0.2324174582737964,5520844.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+98,retail,2025-07-29,2025-09-12,10699000.0,45,0.5158218565247789,5518778.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+19,grosir,2025-07-31,2025-08-30,21057000.0,30,0.2585022717970268,5443282.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+44,horeca,2025-11-23,2025-12-23,15908000.0,30,0.34215805638278823,5443050.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+140,grosir,2025-07-10,2025-08-09,17608000.0,30,0.30510880710543903,5372356.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+82,horeca,2025-12-07,2026-01-06,23164000.0,30,0.23019371184364723,5332207.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+96,retail,2025-06-27,2025-08-11,19645000.0,45,0.2711063985454438,5325885.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+26,grosir,2025-09-05,2025-10-20,5928000.0,45,0.8949279986448814,5305133.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+101,grosir,2025-08-27,2025-09-10,18622000.0,14,0.28333428164147256,5276251.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+98,retail,2025-10-19,2025-11-18,18228000.0,30,0.28836254843482,5256273.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+48,grosir,2025-07-02,2025-08-01,19065000.0,30,0.27512790661862113,5245314.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+144,grosir,2025-06-28,2025-08-12,19086000.0,45,0.2738602827482699,5226897.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+78,grosir,2025-07-15,2025-07-29,15593000.0,14,0.3338240811579758,5205319.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+58,retail,2025-10-03,2025-12-02,5337000.0,60,0.9748091299713576,5202556.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+17,retail,2025-08-19,2025-09-18,16908000.0,30,0.30172982244595625,5101648.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+72,horeca,2025-11-08,2025-12-08,18623000.0,30,0.272537189533629,5075460.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+11,horeca,2025-10-30,2025-11-13,9501000.0,14,0.5328855335965371,5062945.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+79,grosir,2025-07-09,2025-07-23,12632000.0,14,0.3995510965274383,5047129.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+15,retail,2025-08-09,2025-09-08,11348000.0,30,0.43577038614193064,4945122.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+120,grosir,2025-09-19,2025-11-03,37580000.0,45,0.12978547636676388,4877338.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+117,grosir,2025-09-20,2025-10-04,29076000.0,14,0.16744489002558305,4868628.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+48,grosir,2025-07-04,2025-08-03,17579000.0,30,0.27666309892587504,4863461.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+126,retail,2025-07-11,2025-08-25,19317000.0,45,0.25002709921335775,4829773.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+106,retail,2025-07-27,2025-09-25,8302000.0,60,0.5747394907013199,4771487.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+127,retail,2025-07-08,2025-08-22,14919000.0,45,0.3189736459703335,4758768.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+38,retail,2025-11-01,2025-11-15,34309000.0,14,0.13577884821015507,4658437.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+19,grosir,2025-06-26,2025-07-26,20561000.0,30,0.2247916987505528,4621942.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+28,retail,2025-08-19,2025-10-03,10624000.0,45,0.42856871055556217,4553114.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+99,horeca,2025-10-13,2025-11-12,7283000.0,30,0.6207437216217818,4520877.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+47,retail,2025-07-20,2025-08-19,11755000.0,30,0.3843544539169522,4518087.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+61,grosir,2025-11-22,2025-12-22,14783000.0,30,0.30444149507439316,4500559.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+27,retail,2025-11-18,2025-12-18,12329000.0,30,0.36483542412558306,4498056.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+82,horeca,2025-11-15,2025-12-30,8175000.0,45,0.5501106736673774,4497155.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+22,horeca,2025-07-07,2025-08-21,10762000.0,45,0.4141857440654453,4457467.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+108,retail,2025-11-06,2026-01-05,22797000.0,60,0.19299426776255776,4399690.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+82,horeca,2025-08-05,2025-09-04,18813000.0,30,0.23260100282832716,4375923.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+130,retail,2025-12-26,2026-01-25,30607000.0,30,0.1426648538030785,4366543.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+116,grosir,2025-07-12,2025-08-11,8186000.0,30,0.533053795582976,4363578.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+40,retail,2025-08-15,2025-09-14,10593000.0,30,0.4113463806102974,4357392.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+51,retail,2025-07-16,2025-09-14,29096000.0,60,0.14973563318688765,4356708.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+54,grosir,2025-08-18,2025-09-17,19864000.0,30,0.21660869677399183,4302715.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+142,horeca,2025-06-27,2025-07-27,19547000.0,30,0.2192686415213181,4286044.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+140,grosir,2025-06-26,2025-07-26,22083000.0,30,0.1934242145907687,4271387.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+27,retail,2025-11-16,2026-01-15,11208000.0,60,0.3808761754854482,4268860.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+78,grosir,2025-07-31,2025-09-14,8995000.0,45,0.47164290092514216,4242428.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+149,retail,2025-07-06,2025-08-20,8098000.0,45,0.5205403358364175,4215336.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+111,retail,2025-09-30,2025-10-30,10779000.0,30,0.3820198269450444,4117792.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+105,grosir,2025-07-06,2025-08-05,9641000.0,30,0.4255632548401944,4102855.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+135,retail,2025-12-28,2026-02-11,19935000.0,45,0.20285940951946504,4044002.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+96,retail,2025-11-11,2025-12-26,15821000.0,45,0.2545003361039019,4026450.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+79,grosir,2025-06-25,2025-07-25,6284000.0,30,0.6377663581903564,4007724.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+103,horeca,2025-11-05,2025-11-19,4891000.0,14,0.8166465538545286,3994218.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+71,retail,2025-07-06,2025-08-05,5660000.0,30,0.7056607338048689,3994040.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+14,retail,2025-09-23,2025-10-07,13288000.0,14,0.30046441508258587,3992571.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+137,grosir,2025-07-19,2025-09-02,23149000.0,45,0.171486110352102,3969732.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+122,retail,2025-12-01,2025-12-15,4209000.0,14,0.94043034784049,3958271.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+77,grosir,2025-07-04,2025-08-03,10695000.0,30,0.365956483125444,3913905.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+80,grosir,2025-07-31,2025-08-30,8375000.0,30,0.4611496205081931,3862128.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+144,grosir,2025-07-19,2025-08-18,15296000.0,30,0.251452414668274,3846216.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+15,retail,2025-11-14,2025-12-14,27024000.0,30,0.14195991633289157,3836325.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+97,retail,2025-08-14,2025-10-13,4287000.0,60,0.8896951031553199,3814123.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+97,retail,2025-08-16,2025-09-15,5090000.0,30,0.7477737357380607,3806168.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+131,horeca,2025-11-18,2026-01-02,7845000.0,45,0.4844318393770264,3800368.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+37,grosir,2025-10-20,2025-12-04,16280000.0,45,0.2321675044418627,3779687.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+19,grosir,2025-08-31,2025-09-30,17994000.0,30,0.20905205225415222,3761683.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+48,grosir,2025-11-07,2025-12-22,25712000.0,45,0.1448191067204233,3723589.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+26,grosir,2025-09-14,2025-10-14,4555000.0,30,0.8134629722447695,3705324.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+90,retail,2025-12-26,2026-01-25,14045000.0,30,0.26241857029982807,3685669.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+75,retail,2025-07-02,2025-08-01,11884000.0,30,0.3092338560778787,3674935.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+9,grosir,2025-07-17,2025-08-16,12530000.0,30,0.2928465110506434,3669367.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+5,horeca,2025-08-06,2025-09-20,15945000.0,45,0.22936294729866072,3657192.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+125,grosir,2025-11-23,2025-12-07,44317000.0,14,0.08241268837774275,3652283.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+58,retail,2025-06-26,2025-08-10,3827000.0,45,0.9525636023629778,3645461.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+90,retail,2025-06-26,2025-08-10,4493000.0,45,0.807518692201561,3628181.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+42,grosir,2025-10-04,2025-11-18,12723000.0,45,0.284597937283681,3620940.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+106,retail,2025-09-25,2025-10-25,17194000.0,30,0.21054910820484735,3620181.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+58,retail,2025-06-30,2025-07-30,3757000.0,30,0.9559778489373775,3591609.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+21,retail,2025-08-10,2025-08-24,16804000.0,14,0.21237260918504697,3568709.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+93,retail,2025-12-21,2026-01-20,19502000.0,30,0.18271771607121012,3563361.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+26,grosir,2025-11-22,2025-12-22,4067000.0,30,0.8690611476655699,3534472.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+46,retail,2025-11-21,2025-12-21,18221000.0,30,0.19311143467172304,3518683.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+85,retail,2025-08-17,2025-08-31,13330000.0,14,0.2618079990210551,3489901.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+97,retail,2025-09-17,2025-10-01,11697000.0,14,0.29758977940163056,3480908.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+20,grosir,2025-12-17,2025-12-31,3818000.0,14,0.9044205555394116,3453078.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+79,grosir,2025-10-30,2025-12-14,11353000.0,45,0.3028042737880185,3437737.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+116,grosir,2025-10-01,2025-11-15,12274000.0,45,0.2799621082399367,3436255.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+29,grosir,2025-11-02,2026-01-01,24296000.0,60,0.1413195121404278,3433499.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+47,retail,2025-07-03,2025-08-02,11978000.0,30,0.28525524254835793,3416787.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+86,grosir,2025-07-24,2025-08-23,11421000.0,30,0.2979403454948275,3402777.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+26,grosir,2025-07-05,2025-08-04,3554000.0,30,0.9545751326499187,3392560.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+125,grosir,2025-10-21,2025-11-04,14168000.0,14,0.23776598359902087,3368668.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+58,retail,2025-10-31,2025-11-30,3478000.0,30,0.9607690092584033,3341555.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+56,grosir,2025-09-11,2025-11-10,28811000.0,60,0.11597662135603708,3341402.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+46,retail,2025-07-27,2025-08-10,13859000.0,14,0.23959512880848916,3320549.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+21,retail,2025-10-18,2025-11-17,18446000.0,30,0.17967274920920925,3314244.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+111,retail,2025-07-10,2025-08-09,5525000.0,30,0.5903024197771022,3261421.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+88,retail,2025-10-19,2025-11-18,24660000.0,30,0.13181310002762917,3250511.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+10,retail,2025-08-16,2025-10-15,15894000.0,60,0.2043707466644564,3248269.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+45,horeca,2025-08-03,2025-09-02,12765000.0,30,0.25058035662189354,3198658.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+81,retail,2025-07-07,2025-09-05,10933000.0,60,0.2893622520541308,3163598.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+100,horeca,2025-11-19,2025-12-19,8586000.0,30,0.3684471943900082,3163488.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+145,retail,2025-10-20,2025-11-19,18033000.0,30,0.17524056306685093,3160113.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+139,retail,2025-12-25,2026-01-08,37934000.0,14,0.08234636017407368,3123727.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+29,grosir,2025-07-03,2025-07-17,17939000.0,14,0.17405036347456795,3122289.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+92,retail,2025-08-07,2025-09-06,13958000.0,30,0.22142413426639593,3090638.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+144,grosir,2025-12-08,2026-01-07,28005000.0,30,0.1102330187244822,3087076.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+127,retail,2025-07-06,2025-08-05,12100000.0,30,0.2541771625491639,3075544.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+0,grosir,2025-06-26,2025-07-26,7708000.0,30,0.3982747324729803,3069902.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+54,grosir,2025-10-11,2025-11-10,13721000.0,30,0.22216475625082585,3048323.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+137,grosir,2025-07-27,2025-09-10,13360000.0,45,0.22805409249384823,3046803.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+117,grosir,2025-07-17,2025-09-15,11174000.0,60,0.27202243644965185,3039579.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+28,retail,2025-09-16,2025-10-31,10821000.0,45,0.2804124586347369,3034343.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+130,retail,2025-09-10,2025-10-25,11647000.0,45,0.25864909208557235,3012486.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+144,grosir,2025-11-07,2025-11-21,21474000.0,14,0.14024933890490782,3011714.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+51,retail,2025-11-24,2025-12-08,20389000.0,14,0.1464592561443679,2986158.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+119,grosir,2025-11-01,2025-12-31,5535000.0,60,0.5338859057214623,2955058.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+112,retail,2025-07-22,2025-08-05,9496000.0,14,0.3110029649297608,2953284.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+26,grosir,2025-12-12,2025-12-26,4065000.0,14,0.7208647092838475,2930315.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+29,grosir,2025-11-09,2025-12-09,20461000.0,30,0.14310331046435845,2928037.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+139,retail,2025-07-29,2025-08-28,13557000.0,30,0.2148821996638505,2913158.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+144,grosir,2025-08-10,2025-10-09,9040000.0,60,0.32155123531764573,2906823.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+103,horeca,2025-07-27,2025-08-26,3219000.0,30,0.9027458119785933,2905939.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+0,grosir,2025-10-11,2025-11-10,15710000.0,30,0.18405234830959033,2891462.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+75,retail,2025-11-30,2025-12-30,16855000.0,30,0.17123850590441844,2886225.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+26,grosir,2025-09-02,2025-09-16,4116000.0,14,0.70079404038462,2884468.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+4,retail,2025-08-18,2025-09-17,13092000.0,30,0.22021072356767166,2882999.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+27,retail,2025-08-26,2025-10-10,3628000.0,45,0.794320044906409,2881793.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+35,retail,2025-06-26,2025-07-10,5068000.0,14,0.5681182441778154,2879223.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+37,grosir,2025-09-27,2025-10-27,12174000.0,30,0.23512617304211014,2862426.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+73,retail,2025-09-22,2025-11-21,16856000.0,60,0.16956066808538386,2858115.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+0,grosir,2025-11-16,2026-01-15,11946000.0,60,0.23444458910392896,2800675.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+118,retail,2025-07-10,2025-08-09,7823000.0,30,0.3567375294192487,2790758.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+30,grosir,2025-09-23,2025-11-07,16395000.0,45,0.16976668598407765,2783325.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+127,retail,2025-08-14,2025-09-13,10670000.0,30,0.2588000873213479,2761397.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+34,grosir,2025-08-10,2025-09-09,11192000.0,30,0.24537284574417292,2746213.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+148,retail,2025-11-27,2025-12-27,4988000.0,30,0.5475621087494715,2731240.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+48,grosir,2025-10-02,2025-12-01,21762000.0,60,0.12529010011337294,2726563.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+71,retail,2025-12-27,2026-02-25,12357000.0,60,0.22049870629792276,2724703.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+97,retail,2025-10-08,2025-11-07,8334000.0,30,0.3261191604730924,2717877.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+6,grosir,2025-07-25,2025-09-08,9003000.0,45,0.3006066677868581,2706362.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+7,grosir,2025-09-21,2025-10-21,9023000.0,30,0.2993800833635628,2701306.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+96,retail,2025-10-22,2025-12-06,28171000.0,45,0.09558603985691144,2692754.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+17,retail,2025-11-13,2025-12-13,23017000.0,30,0.11642343973799425,2679718.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+21,retail,2025-10-04,2025-11-03,16456000.0,30,0.16260089548194398,2675760.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+49,retail,2025-10-12,2025-11-11,12189000.0,30,0.2187029287377479,2665770.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+93,retail,2025-10-20,2025-12-04,17416000.0,45,0.15222158505556269,2651091.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+87,grosir,2025-07-08,2025-08-07,14453000.0,30,0.18342429467332044,2651031.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+27,retail,2025-11-01,2025-12-01,10704000.0,30,0.24688080748593347,2642612.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+124,retail,2025-07-28,2025-09-11,5951000.0,45,0.44281209341610817,2635175.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+146,retail,2025-10-16,2025-10-30,19007000.0,14,0.13809218277242122,2624718.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+149,retail,2025-12-23,2026-01-06,17935000.0,14,0.14507805733462992,2601975.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+105,grosir,2025-09-17,2025-10-17,16187000.0,30,0.15988714489068406,2588093.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+2,horeca,2025-07-17,2025-07-31,5645000.0,14,0.4562664213789479,2575624.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+99,horeca,2025-10-10,2025-11-24,13424000.0,45,0.19008995678788584,2551768.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+14,retail,2025-08-12,2025-08-26,11707000.0,14,0.21688315983971873,2539051.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+114,retail,2025-08-20,2025-10-04,20538000.0,45,0.12277934351835468,2521642.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+149,retail,2025-08-27,2025-09-26,6484000.0,30,0.3883277761647626,2517917.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+128,retail,2025-08-05,2025-09-04,6994000.0,30,0.3595699954923745,2514833.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+87,grosir,2025-09-22,2025-10-22,14059000.0,30,0.17819098669296402,2505187.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+27,retail,2025-12-25,2026-02-08,11093000.0,45,0.22441066656591296,2489388.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+2,horeca,2025-11-20,2026-01-04,8249000.0,45,0.2973905271141091,2453174.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+22,horeca,2025-11-16,2025-11-30,14186000.0,14,0.17241577869274205,2445890.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+102,retail,2025-09-10,2025-11-09,34894000.0,60,0.06943794901098833,2422968.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+78,grosir,2025-08-07,2025-09-06,9885000.0,30,0.2416488640721474,2388699.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+78,grosir,2025-10-29,2025-11-28,11397000.0,30,0.20950838841327266,2387767.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+70,retail,2025-08-26,2025-09-25,11019000.0,30,0.2163819777446456,2384313.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+32,retail,2025-11-08,2025-11-22,11120000.0,14,0.2131885691501355,2370657.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+91,grosir,2025-08-29,2025-10-28,16287000.0,60,0.1451420504794744,2363929.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+9,grosir,2025-12-14,2025-12-28,24150000.0,14,0.09729357291478441,2349640.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+79,grosir,2025-07-07,2025-07-21,3358000.0,14,0.6974601694678517,2342071.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+49,retail,2025-08-16,2025-09-30,9780000.0,45,0.23931468430546085,2340498.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+19,grosir,2025-11-04,2025-12-19,13616000.0,45,0.17169994743534203,2337866.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+17,retail,2025-07-07,2025-08-06,9301000.0,30,0.25108799140191423,2335369.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+102,retail,2025-10-30,2025-11-29,11909000.0,30,0.1958517089712573,2332398.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+97,retail,2025-09-14,2025-10-14,9352000.0,30,0.24779279776671956,2317358.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+98,retail,2025-11-03,2025-11-17,19991000.0,14,0.11578294957016247,2314617.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+16,grosir,2025-08-14,2025-08-28,8317000.0,14,0.277745629159934,2310010.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+91,grosir,2025-11-03,2025-12-03,18284000.0,30,0.1261856662719732,2307179.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+97,retail,2025-12-29,2026-02-12,8254000.0,45,0.27833737523187746,2297397.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+63,grosir,2025-07-02,2025-08-01,12306000.0,30,0.18665466635163386,2296972.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+45,horeca,2025-12-12,2026-01-11,19002000.0,30,0.12081736184087619,2295772.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+81,retail,2025-08-19,2025-09-18,5449000.0,30,0.4208788625926289,2293369.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+146,retail,2025-06-29,2025-07-29,17372000.0,30,0.1313960561626366,2282612.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+125,grosir,2025-09-25,2025-11-09,21072000.0,45,0.10801908210697322,2276178.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+127,retail,2025-12-25,2026-02-08,21915000.0,45,0.10385422405214038,2275965.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+88,retail,2025-11-06,2025-12-21,26718000.0,45,0.08511656804930914,2274144.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+100,horeca,2025-11-06,2025-11-20,13266000.0,14,0.1711378218466795,2270314.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+20,grosir,2025-07-20,2025-08-19,2365000.0,30,0.9586404778933911,2267185.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+100,horeca,2025-12-15,2026-01-29,18790000.0,45,0.12064098002825048,2266844.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+15,retail,2025-08-11,2025-09-25,13825000.0,45,0.16290401786015204,2252148.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+44,horeca,2025-08-03,2025-09-02,7936000.0,30,0.2824168429458569,2241260.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+29,grosir,2025-10-10,2025-11-24,10261000.0,45,0.2165390135039391,2221907.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+6,grosir,2025-07-31,2025-09-14,10247000.0,45,0.216823280119725,2221788.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+24,grosir,2025-06-29,2025-07-29,14256000.0,30,0.15557424720156446,2217866.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+13,horeca,2025-09-01,2025-09-15,16546000.0,14,0.13372442119540867,2212604.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+101,grosir,2025-08-27,2025-10-11,10047000.0,45,0.21951126167799404,2205430.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+120,grosir,2025-08-17,2025-10-01,14255000.0,45,0.15467599246495323,2204906.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+71,retail,2025-10-25,2025-12-24,8010000.0,60,0.2731668364962157,2188066.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+80,grosir,2025-07-21,2025-09-04,7823000.0,45,0.27645779348049876,2162729.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+17,retail,2025-07-08,2025-07-22,16645000.0,14,0.12960490635652638,2157274.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+79,grosir,2025-10-26,2025-12-10,7049000.0,45,0.30523070807636504,2151571.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+6,grosir,2025-12-24,2026-01-07,17725000.0,14,0.12132329806200896,2150455.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+3,grosir,2025-12-24,2026-01-07,30037000.0,14,0.07116627176154125,2137621.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+27,retail,2025-10-10,2025-11-09,12929000.0,30,0.16511839888347107,2134816.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+110,grosir,2025-08-22,2025-10-06,9519000.0,45,0.22350904528690813,2127583.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+49,retail,2025-08-25,2025-09-24,8383000.0,30,0.25340860992904535,2124324.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+84,retail,2025-10-26,2025-12-10,16606000.0,45,0.1278383557566834,2122884.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+14,retail,2025-08-11,2025-09-10,8556000.0,30,0.24740343475873486,2116784.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+66,grosir,2025-08-19,2025-09-18,11453000.0,30,0.1843718045825172,2111610.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+79,grosir,2025-10-05,2025-11-04,9773000.0,30,0.21533521230587413,2104471.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+68,retail,2025-11-25,2025-12-25,13744000.0,30,0.15310209505890707,2104235.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+33,retail,2025-07-30,2025-08-13,10434000.0,14,0.20100270524005173,2097262.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+55,grosir,2025-07-18,2025-09-01,9751000.0,45,0.21506785230678863,2097127.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+92,retail,2025-11-03,2025-12-03,14483000.0,30,0.14443853875125837,2091903.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+60,grosir,2025-08-06,2025-10-05,4780000.0,60,0.43753631788872027,2091424.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+82,horeca,2025-08-28,2025-09-11,11542000.0,14,0.18115300623242267,2090868.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+14,retail,2025-11-02,2025-12-02,14757000.0,30,0.1413984391784648,2086617.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+136,horeca,2025-11-17,2025-12-17,6456000.0,30,0.3218272535890928,2077717.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+19,grosir,2025-06-29,2025-08-13,3138000.0,45,0.6562312711200912,2059254.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+147,grosir,2025-12-15,2026-01-14,19509000.0,30,0.10508345796011768,2050073.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+70,retail,2025-08-06,2025-10-05,11672000.0,60,0.17531970120768306,2046332.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+117,grosir,2025-12-01,2025-12-31,16471000.0,30,0.12412408961368074,2044448.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+56,grosir,2025-07-06,2025-08-20,8531000.0,45,0.23938740454659657,2042214.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+93,retail,2025-10-17,2025-11-16,12840000.0,30,0.15880064752691542,2039000.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+27,retail,2025-10-22,2025-12-21,9914000.0,60,0.2044469803851005,2026887.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+35,retail,2025-10-30,2025-11-29,4513000.0,30,0.4399570958125015,1985526.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+35,retail,2025-08-12,2025-08-26,3437000.0,14,0.5774484062928287,1984690.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+53,grosir,2025-07-02,2025-08-01,4172000.0,30,0.47432017815244754,1978864.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+146,retail,2025-10-30,2025-11-29,16552000.0,30,0.11856043683889349,1962412.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+143,grosir,2025-07-03,2025-08-02,9880000.0,30,0.19718256112828783,1948164.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+123,retail,2025-07-03,2025-07-17,6897000.0,14,0.28214602908337305,1945961.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+68,retail,2025-08-11,2025-09-10,11054000.0,30,0.17500432306659444,1934498.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+2,horeca,2025-06-27,2025-08-11,5192000.0,45,0.3725474569800153,1934266.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+0,grosir,2025-08-08,2025-08-22,5381000.0,14,0.3592847008235141,1933311.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+0,grosir,2025-10-01,2025-11-30,9339000.0,60,0.20514996879082997,1915896.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+3,grosir,2025-08-16,2025-09-30,20636000.0,45,0.09194208115977709,1897317.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+38,retail,2025-10-18,2025-11-17,11372000.0,30,0.16523206763007323,1879019.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+116,grosir,2025-10-17,2025-12-16,25672000.0,60,0.07287479365000198,1870842.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+148,retail,2025-12-27,2026-02-10,4201000.0,45,0.44287736747683376,1860528.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+67,retail,2025-11-26,2025-12-26,14259000.0,30,0.12977968436127818,1850529.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+27,retail,2025-12-25,2026-02-08,7980000.0,45,0.2317319776777831,1849221.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+106,retail,2025-11-02,2025-12-02,6515000.0,30,0.2826570588881439,1841511.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+41,horeca,2025-08-14,2025-09-13,16352000.0,30,0.11242048984298064,1838300.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+117,grosir,2025-09-23,2025-10-23,24643000.0,30,0.07448737789562394,1835592.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+36,retail,2025-12-16,2026-01-15,19601000.0,30,0.09332243119459421,1829213.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+98,retail,2025-08-05,2025-08-19,11505000.0,14,0.15822558273813503,1820385.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+33,retail,2025-07-13,2025-08-12,17264000.0,30,0.10537801310279533,1819246.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+13,horeca,2025-08-23,2025-09-06,8387000.0,14,0.21648222775442136,1815636.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+31,horeca,2025-10-23,2025-11-06,6017000.0,14,0.30027084813431465,1806730.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+149,retail,2025-10-03,2025-11-02,9541000.0,30,0.18930741345431926,1806182.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+89,grosir,2025-08-03,2025-09-02,14088000.0,30,0.12797137256126015,1802861.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+81,retail,2025-06-28,2025-08-12,6201000.0,45,0.28929666513733066,1793929.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+9,grosir,2025-07-11,2025-08-10,10300000.0,30,0.17220497855466474,1773711.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+136,horeca,2025-11-24,2025-12-08,6211000.0,14,0.28464010484715063,1767900.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+142,horeca,2025-08-22,2025-10-06,10176000.0,45,0.17234303646092272,1753763.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+27,retail,2025-09-28,2025-11-12,12674000.0,45,0.13737817926257123,1741131.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+20,grosir,2025-07-22,2025-09-05,1746000.0,45,0.9846557093339418,1719209.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+15,retail,2025-08-24,2025-10-08,9336000.0,45,0.1834677354105567,1712855.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+45,horeca,2025-10-15,2025-11-14,15441000.0,30,0.11085375471339082,1711693.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+53,grosir,2025-11-12,2025-12-12,12934000.0,30,0.13172616250842414,1703746.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+123,retail,2025-07-30,2025-08-29,10010000.0,30,0.16953834606807197,1697079.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+114,retail,2025-09-23,2025-10-23,16557000.0,30,0.10094957011840315,1671422.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+35,retail,2025-08-30,2025-10-14,1980000.0,45,0.8435413213434599,1670212.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+103,horeca,2025-10-30,2025-12-29,1948000.0,60,0.856187574657767,1667853.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+90,retail,2025-11-16,2025-12-16,5628000.0,30,0.29575059758683514,1664484.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+125,grosir,2025-07-05,2025-08-19,11966000.0,45,0.1390026724848163,1663306.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+10,retail,2025-08-24,2025-09-23,8163000.0,30,0.2024618957983122,1652696.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+78,grosir,2025-06-30,2025-07-30,6117000.0,30,0.26994231461319224,1651237.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+59,retail,2025-09-22,2025-10-22,18828000.0,30,0.08721123217837626,1642013.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+107,retail,2025-08-17,2025-10-01,3803000.0,45,0.4316748696404736,1641660.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+7,grosir,2025-12-01,2025-12-31,13524000.0,30,0.12120079758216237,1639120.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+93,retail,2025-10-14,2025-12-13,8578000.0,60,0.18886727865965638,1620104.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+100,horeca,2025-10-10,2025-10-24,6544000.0,14,0.24715790343854865,1617401.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+43,retail,2025-07-28,2025-08-27,8722000.0,30,0.18541950699776122,1617229.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+142,horeca,2025-07-20,2025-08-19,7814000.0,30,0.20584440599699136,1608468.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+32,retail,2025-06-28,2025-08-12,8351000.0,45,0.19025962262518345,1588858.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+120,grosir,2025-12-11,2026-01-10,26367000.0,30,0.060072465296938736,1583931.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+103,horeca,2025-11-26,2026-01-10,2173000.0,45,0.7283576876296827,1582721.0,1. TINGGI (High Risk),1,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+13,horeca,2025-09-26,2025-11-25,15410000.0,60,0.10210012474059174,1573363.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+50,retail,2025-11-11,2025-11-25,16111000.0,14,0.0976504533795488,1573246.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+106,retail,2025-11-01,2025-12-01,7758000.0,30,0.2014187579764779,1562607.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+5,horeca,2025-07-13,2025-07-27,4876000.0,14,0.31956839335083514,1558215.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+147,grosir,2025-08-13,2025-10-12,8314000.0,60,0.1871410247319587,1555890.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+113,grosir,2025-10-19,2025-12-03,18913000.0,45,0.08203973433568734,1551617.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+10,retail,2025-09-30,2025-10-30,18774000.0,30,0.08259843702911719,1550703.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+27,retail,2025-11-05,2025-12-05,4184000.0,30,0.37049975634176874,1550171.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+118,retail,2025-08-31,2025-09-30,4899000.0,30,0.3154364825671487,1545323.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+13,horeca,2025-07-26,2025-08-09,13411000.0,14,0.11508426237803829,1543395.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+47,retail,2025-08-06,2025-09-05,6742000.0,30,0.22781588846279616,1535935.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+15,retail,2025-08-11,2025-08-25,3765000.0,14,0.40638583254477967,1530043.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+149,retail,2025-09-09,2025-10-24,6972000.0,45,0.21933125179467702,1529177.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+43,retail,2025-07-22,2025-08-05,7373000.0,14,0.20696911799558879,1525983.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+12,grosir,2025-10-21,2025-11-04,17882000.0,14,0.08516646925044016,1522947.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+41,horeca,2025-10-05,2025-11-19,18807000.0,45,0.07980613197656576,1500914.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+85,retail,2025-07-12,2025-08-11,6853000.0,30,0.21890379047003075,1500148.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+68,retail,2025-10-15,2025-11-14,6163000.0,30,0.24251438476581086,1494616.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+19,grosir,2025-09-06,2025-10-06,15603000.0,30,0.09486254251973246,1480140.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+52,grosir,2025-08-29,2025-09-28,8382000.0,30,0.1755633093814817,1471572.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+53,grosir,2025-12-12,2026-02-10,9712000.0,60,0.1506493551288797,1463107.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+106,retail,2025-12-06,2026-02-04,11581000.0,60,0.12576703007285997,1456508.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+38,retail,2025-08-28,2025-10-27,11672000.0,60,0.12393711057883235,1446594.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+114,retail,2025-09-09,2025-10-24,10723000.0,45,0.1348044430828747,1445508.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+54,grosir,2025-08-05,2025-08-19,14534000.0,14,0.09911427645207048,1440527.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+128,retail,2025-11-11,2025-11-25,16817000.0,14,0.08531496198305888,1434742.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+124,retail,2025-11-10,2025-12-10,12951000.0,30,0.11063032864279378,1432773.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+18,horeca,2025-07-28,2025-09-11,3146000.0,45,0.45480797801580475,1430826.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+40,retail,2025-07-30,2025-08-29,5596000.0,30,0.25414134350805195,1422175.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+41,horeca,2025-11-05,2026-01-04,22594000.0,60,0.06276983896931297,1418222.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+37,grosir,2025-11-15,2025-11-29,15939000.0,14,0.08804122371274195,1403289.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+145,retail,2025-07-02,2025-08-01,6952000.0,30,0.20135329980313416,1399808.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+44,horeca,2025-11-15,2025-12-15,14070000.0,30,0.09937154097751587,1398158.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+65,grosir,2025-07-09,2025-08-23,4306000.0,45,0.32131347890938367,1383576.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+139,retail,2025-09-10,2025-10-10,11027000.0,30,0.12454513093045386,1373359.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+39,grosir,2025-08-05,2025-09-19,14434000.0,45,0.0932616461527681,1346139.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+130,retail,2025-12-21,2026-02-04,22837000.0,45,0.058918332819379055,1345518.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+130,retail,2025-07-12,2025-08-11,1865000.0,30,0.7196151114717443,1342082.0,1. TINGGI (High Risk),0,"Telepon H-7, konfirmasi faktur, tawarkan split payment, tahan order baru"
+54,grosir,2025-07-23,2025-09-21,7760000.0,60,0.17212900274676832,1335721.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+40,retail,2025-09-13,2025-09-27,13659000.0,14,0.09734207835673248,1329595.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+141,grosir,2025-08-28,2025-09-27,7387000.0,30,0.17913589421049,1323277.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+38,retail,2025-07-16,2025-07-30,9514000.0,14,0.13904175523848075,1322843.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+111,retail,2025-12-25,2026-01-08,3165000.0,14,0.41605808912312003,1316824.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+50,retail,2025-11-11,2025-12-11,9575000.0,30,0.13721026617884927,1313788.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+8,retail,2025-11-21,2025-12-21,3900000.0,30,0.33620557388173883,1311202.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+83,retail,2025-10-05,2025-11-19,10968000.0,45,0.11907312521856683,1305994.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+148,retail,2025-12-19,2026-01-18,6909000.0,30,0.18743873075512735,1295014.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+23,horeca,2025-07-28,2025-09-26,6705000.0,60,0.191952878384299,1287044.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+80,grosir,2025-10-20,2025-11-19,17036000.0,30,0.07540132235164138,1284537.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+70,retail,2025-07-09,2025-07-23,12799000.0,14,0.0996767594329713,1275763.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+0,grosir,2025-12-13,2026-01-27,6740000.0,45,0.18777958655878907,1265634.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+100,horeca,2025-07-18,2025-08-17,5082000.0,30,0.2476341872423037,1258477.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+100,horeca,2025-08-30,2025-09-13,4590000.0,14,0.27273309169637994,1251845.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+141,grosir,2025-10-26,2025-11-09,14712000.0,14,0.08458517819535027,1244417.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+106,retail,2025-07-14,2025-07-28,3315000.0,14,0.3742855035208233,1240756.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+117,grosir,2025-07-05,2025-08-04,7651000.0,30,0.1614624303323079,1235349.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+87,grosir,2025-07-20,2025-08-19,11110000.0,30,0.11111355007449934,1234472.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+5,horeca,2025-08-11,2025-09-10,6289000.0,30,0.19501256144360085,1226434.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+18,horeca,2025-11-19,2026-01-03,9794000.0,45,0.12281094109596749,1202810.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+37,grosir,2025-10-30,2025-11-29,11320000.0,30,0.10585299488760332,1198256.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+95,grosir,2025-07-14,2025-09-12,10456000.0,60,0.11429984496912726,1195119.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+141,grosir,2025-08-07,2025-10-06,8621000.0,60,0.13860984456778921,1194955.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+133,retail,2025-09-13,2025-09-27,9482000.0,14,0.12580494681448906,1192883.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+125,grosir,2025-08-18,2025-09-17,9603000.0,30,0.123815049687326,1188996.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+22,horeca,2025-11-23,2025-12-23,10691000.0,30,0.11065244154725769,1182985.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+59,retail,2025-09-19,2025-10-19,12055000.0,30,0.09798761303660262,1181241.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+2,horeca,2025-07-17,2025-08-16,7020000.0,30,0.16822046005146352,1180908.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+59,retail,2025-11-27,2025-12-27,11358000.0,30,0.10282929571373658,1167935.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+139,retail,2025-06-27,2025-08-26,7470000.0,60,0.15621736449270623,1166944.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+10,retail,2025-10-01,2025-11-15,10689000.0,45,0.10882388923926223,1163219.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+56,grosir,2025-07-01,2025-07-31,7455000.0,30,0.15487088064644167,1154562.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+91,grosir,2025-08-12,2025-09-11,18288000.0,30,0.06297327738838171,1151655.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+106,retail,2025-12-20,2026-01-19,6763000.0,30,0.16771139646994151,1134232.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+12,grosir,2025-09-19,2025-10-03,3109000.0,14,0.36455436388953505,1133400.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+82,horeca,2025-09-30,2025-11-29,6400000.0,60,0.17586848111848885,1125558.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+89,grosir,2025-09-08,2025-10-23,8523000.0,45,0.1317476311640742,1122885.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+31,horeca,2025-08-22,2025-10-21,4158000.0,60,0.26865256545749616,1117057.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+35,retail,2025-12-21,2026-01-20,4132000.0,30,0.2702007536440531,1116470.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+45,horeca,2025-11-25,2026-01-09,3948000.0,45,0.28125017897235816,1110376.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+131,horeca,2025-09-22,2025-11-06,2424000.0,45,0.4541373593738399,1100829.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+142,horeca,2025-07-04,2025-08-18,7662000.0,45,0.14354491264948865,1099841.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+65,grosir,2025-10-06,2025-12-05,6172000.0,60,0.17807659263405498,1099089.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+108,retail,2025-07-15,2025-08-14,4036000.0,30,0.27191833395996207,1097462.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+30,grosir,2025-08-20,2025-09-03,6037000.0,14,0.1815128831461623,1095793.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+63,grosir,2025-06-28,2025-08-12,4353000.0,45,0.251131680394172,1093176.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+103,horeca,2025-09-25,2025-11-09,2872000.0,45,0.37885331403286426,1088067.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+146,retail,2025-11-16,2025-11-30,18179000.0,14,0.05977213190698892,1086598.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+80,grosir,2025-12-06,2026-01-20,20296000.0,45,0.052923712358280375,1074140.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+4,retail,2025-07-05,2025-07-19,1777000.0,14,0.5989320474906109,1064302.0,2. SEDANG (Medium Risk),0,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+110,grosir,2025-10-15,2025-11-14,6270000.0,30,0.16875226652061748,1058077.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+41,horeca,2025-12-03,2026-01-17,13774000.0,45,0.0765800091443406,1054813.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+41,horeca,2025-08-20,2025-09-19,3913000.0,30,0.2684343143823875,1050383.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+129,grosir,2025-08-19,2025-09-18,7017000.0,30,0.1482696291397602,1040408.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+12,grosir,2025-12-16,2026-01-15,7758000.0,30,0.1339050173614015,1038835.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+76,retail,2025-08-06,2025-08-20,4352000.0,14,0.2382425459634675,1036832.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+89,grosir,2025-08-02,2025-09-16,10037000.0,45,0.10314249297739031,1035241.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+139,retail,2025-08-06,2025-09-05,4686000.0,30,0.22008450227482831,1031316.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+72,horeca,2025-06-29,2025-07-29,5570000.0,30,0.18375794723002573,1023532.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+29,grosir,2025-11-03,2025-12-03,15369000.0,30,0.06654235995168614,1022690.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+13,horeca,2025-08-21,2025-10-05,9635000.0,45,0.10600610992293498,1021369.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+142,horeca,2025-11-12,2025-12-12,7333000.0,30,0.13898012498212486,1019141.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+46,retail,2025-07-04,2025-09-02,6957000.0,60,0.1463990082203423,1018498.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+33,retail,2025-07-24,2025-08-23,6962000.0,30,0.1450665441966358,1009953.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+145,retail,2025-08-24,2025-10-23,5129000.0,60,0.19580644297033,1004291.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+13,horeca,2025-08-07,2025-09-21,13922000.0,45,0.0713026539028815,992676.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+144,grosir,2025-12-10,2026-01-09,21736000.0,30,0.045637356651123034,991974.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+112,retail,2025-12-25,2026-01-08,16446000.0,14,0.06025410887525719,990939.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+5,horeca,2025-06-29,2025-07-29,9711000.0,30,0.10176383535177104,988229.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+135,retail,2025-09-19,2025-10-19,5948000.0,30,0.1660120417258326,987440.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+33,retail,2025-12-06,2026-01-20,22231000.0,45,0.04438899509738994,986812.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+98,retail,2025-09-26,2025-11-25,7870000.0,60,0.12537538094086187,986704.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+19,grosir,2025-11-17,2025-12-17,12315000.0,30,0.08010240392646291,986461.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+102,retail,2025-09-21,2025-10-21,12650000.0,30,0.07784590944429495,984751.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+68,retail,2025-09-24,2025-10-24,7616000.0,30,0.12873382193889732,980437.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+130,retail,2025-08-05,2025-09-04,3416000.0,30,0.2858983035674285,976629.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+83,retail,2025-10-08,2025-11-07,5721000.0,30,0.16955792643531242,970041.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+42,grosir,2025-06-28,2025-08-12,6027000.0,45,0.16090829748221366,969794.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+1,retail,2025-12-02,2026-01-01,14663000.0,30,0.06604794565050935,968461.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+24,grosir,2025-09-24,2025-11-23,27040000.0,60,0.03578932720291554,967743.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+113,grosir,2025-07-18,2025-09-16,6389000.0,60,0.15022817261168356,959808.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+57,grosir,2025-06-28,2025-07-28,7146000.0,30,0.1334897110729449,953917.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+38,retail,2025-07-23,2025-09-21,5208000.0,60,0.18144919838142648,944987.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+19,grosir,2025-07-25,2025-08-24,6023000.0,30,0.15635703339490875,941738.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+3,grosir,2025-06-30,2025-07-30,5113000.0,30,0.18337584566610327,937601.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+24,grosir,2025-09-03,2025-10-03,13218000.0,30,0.06973935278250544,921815.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+55,grosir,2025-10-03,2025-11-17,7127000.0,45,0.1292764831924441,921353.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+132,grosir,2025-07-05,2025-09-03,3586000.0,60,0.25302519073280055,907348.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+4,retail,2025-09-23,2025-10-23,13314000.0,30,0.06813993776584036,907215.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+91,grosir,2025-11-09,2025-12-09,18056000.0,30,0.05020892749693598,906572.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+84,retail,2025-08-31,2025-09-14,7346000.0,14,0.12309235485241239,904236.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+29,grosir,2025-07-02,2025-08-31,10076000.0,60,0.0892856413294096,899642.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+129,grosir,2025-07-18,2025-08-17,4785000.0,30,0.18777564352077444,898506.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+112,retail,2025-12-26,2026-02-09,8382000.0,45,0.10695825679289975,896524.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+137,grosir,2025-07-09,2025-07-23,11663000.0,14,0.07685864217240543,896402.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+65,grosir,2025-09-17,2025-10-17,12023000.0,30,0.07449970168023518,895710.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+51,retail,2025-12-04,2026-01-03,8076000.0,30,0.11070715306791609,894071.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+102,retail,2025-06-27,2025-07-27,5501000.0,30,0.16228769350186692,892745.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+63,grosir,2025-11-20,2025-12-20,11594000.0,30,0.07670326440390295,889298.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+74,retail,2025-12-01,2026-01-30,22297000.0,60,0.039813394861517144,887719.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+44,horeca,2025-12-18,2026-01-17,14299000.0,30,0.062020991869333,886838.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+41,horeca,2025-11-05,2025-12-05,13632000.0,30,0.0649142939437025,884912.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+130,retail,2025-08-02,2025-09-01,6577000.0,30,0.13422420507768565,882793.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+53,grosir,2025-10-23,2025-12-07,6532000.0,45,0.13491007381375858,881233.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+118,retail,2025-07-10,2025-09-08,3809000.0,60,0.23040776454883338,877623.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+134,grosir,2025-08-03,2025-08-17,3747000.0,14,0.23216256327655893,869913.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+115,horeca,2025-08-19,2025-09-02,7680000.0,14,0.1126427857361703,865097.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+103,horeca,2025-11-09,2025-11-23,1306000.0,14,0.6592865544313559,861028.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+46,retail,2025-09-28,2025-10-28,7540000.0,30,0.11329298460147051,854229.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+86,grosir,2025-08-07,2025-09-21,5752000.0,45,0.14847323821325922,854018.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+70,retail,2025-08-07,2025-09-06,5666000.0,30,0.1502016033862162,851042.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+147,grosir,2025-10-04,2025-11-03,6111000.0,30,0.13869314992824325,847554.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+23,horeca,2025-06-27,2025-07-27,6157000.0,30,0.13606318849704227,837741.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+24,grosir,2025-08-07,2025-10-06,4070000.0,60,0.2038079665920483,829498.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+17,retail,2025-08-18,2025-09-17,8024000.0,30,0.10217995413184537,819892.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+88,retail,2025-10-19,2025-12-03,6584000.0,45,0.12449508026063431,819676.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+21,retail,2025-12-07,2026-01-06,22400000.0,30,0.03654855788433732,818688.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+77,grosir,2025-12-09,2026-02-07,16988000.0,60,0.0481898316033522,818649.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+61,grosir,2025-10-02,2025-12-01,10792000.0,60,0.07580763540748132,818116.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+66,grosir,2025-10-09,2025-12-08,8172000.0,60,0.09986135703093019,816067.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+83,retail,2025-07-13,2025-07-27,4610000.0,14,0.1765376102021504,813838.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+60,grosir,2025-07-19,2025-09-02,9629000.0,45,0.08435778004501769,812281.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+93,retail,2025-11-14,2026-01-13,5393000.0,60,0.1505526590710214,811930.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+124,retail,2025-09-12,2025-10-12,6596000.0,30,0.12287542816121332,810486.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+137,grosir,2025-11-04,2025-12-04,14365000.0,30,0.055610762119206826,798849.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+110,grosir,2025-10-03,2025-11-02,6770000.0,30,0.11776511043487449,797270.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+129,grosir,2025-11-28,2026-01-12,8393000.0,45,0.09468035204764429,794652.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+28,retail,2025-12-01,2025-12-31,11257000.0,30,0.07022418067127804,790514.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+72,horeca,2025-12-08,2026-01-07,15259000.0,30,0.051670170074692545,788435.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+3,grosir,2025-08-26,2025-10-10,3259000.0,45,0.2413489440600886,786556.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+4,retail,2025-08-15,2025-08-29,4856000.0,14,0.16194387776234115,786399.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+108,retail,2025-07-11,2025-08-10,9265000.0,30,0.08423053902463815,780396.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+130,retail,2025-10-08,2025-11-22,8372000.0,45,0.09313188501684455,779700.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+39,grosir,2025-07-29,2025-09-27,6381000.0,60,0.12196654543674648,778269.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+74,retail,2025-07-12,2025-07-26,6443000.0,14,0.12070081842494709,777675.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+28,retail,2025-11-07,2025-12-22,11146000.0,45,0.06906192722662928,769764.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+120,grosir,2025-07-18,2025-08-17,6197000.0,30,0.12406535907195297,768833.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+142,horeca,2025-09-07,2025-10-22,4876000.0,45,0.1575387441044466,768159.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+48,grosir,2025-12-06,2026-01-05,13461000.0,30,0.05685408850545789,765313.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+43,retail,2025-11-15,2025-12-30,7910000.0,45,0.09646322118811637,763024.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+105,grosir,2025-12-24,2026-02-07,8315000.0,45,0.09113306211789583,757771.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+44,horeca,2025-11-15,2025-12-15,4079000.0,30,0.18574739006716634,757664.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+56,grosir,2025-09-17,2025-11-01,5296000.0,45,0.14275860191337264,756050.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+143,grosir,2025-12-06,2026-01-20,13847000.0,45,0.05341952430876335,739700.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+56,grosir,2025-09-21,2025-11-05,12123000.0,45,0.060637965692025834,735114.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+13,horeca,2025-08-16,2025-10-15,3895000.0,60,0.18819316080586482,733012.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+73,retail,2025-09-17,2025-10-17,17902000.0,30,0.04085766870464643,731434.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+13,horeca,2025-10-01,2025-11-15,6491000.0,45,0.11247874792130547,730100.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+104,grosir,2025-12-28,2026-01-27,18509000.0,30,0.039360635389389706,728526.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+15,retail,2025-09-13,2025-10-13,17142000.0,30,0.04226954614183059,724585.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+78,grosir,2025-10-05,2025-11-04,5016000.0,30,0.14432718589140262,723945.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+28,retail,2025-09-04,2025-11-03,17481000.0,60,0.040628810864640555,710232.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+101,grosir,2025-11-08,2025-12-08,10984000.0,30,0.06448731535013182,708329.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+28,retail,2025-08-31,2025-09-30,4103000.0,30,0.17219450155827884,706514.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+50,retail,2025-08-11,2025-10-10,3262000.0,60,0.21658529199268098,706501.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+137,grosir,2025-07-29,2025-08-12,7532000.0,14,0.09323776123576437,702267.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+149,retail,2025-11-13,2025-12-13,9348000.0,30,0.07485057668009804,699703.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+33,retail,2025-11-30,2025-12-30,6082000.0,30,0.11476763675919427,698017.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+31,horeca,2025-09-28,2025-11-27,7566000.0,60,0.09138076514739779,691387.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+18,horeca,2025-10-31,2025-11-14,9420000.0,14,0.07336146199520072,691065.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+72,horeca,2025-08-11,2025-08-25,9651000.0,14,0.07155763512699764,690603.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+59,retail,2025-09-20,2025-10-04,10058000.0,14,0.0678760800740002,682698.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+140,grosir,2025-08-07,2025-09-06,5343000.0,30,0.12775178035868673,682578.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+107,retail,2025-08-02,2025-09-16,9898000.0,45,0.06799794807331236,673044.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+113,grosir,2025-10-22,2025-11-21,14213000.0,30,0.04712185605934929,669743.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+30,grosir,2025-11-16,2025-12-31,6286000.0,45,0.10644681496977654,669125.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+19,grosir,2025-09-02,2025-10-17,8736000.0,45,0.07466407857406597,652265.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+66,grosir,2025-08-27,2025-09-26,6685000.0,30,0.09687097044719405,647582.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+38,retail,2025-12-23,2026-02-21,17117000.0,60,0.037822696974343185,647411.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+18,horeca,2025-09-11,2025-11-10,8352000.0,60,0.07732171382191609,645791.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+69,retail,2025-08-25,2025-10-09,8765000.0,45,0.07356688344256758,644814.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+45,horeca,2025-09-17,2025-10-17,9183000.0,30,0.06935312227215348,636870.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+13,horeca,2025-08-21,2025-10-20,12414000.0,60,0.05129265818474699,636747.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+37,grosir,2025-11-04,2025-12-19,4863000.0,45,0.12933365169979477,628950.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+65,grosir,2025-08-05,2025-08-19,4309000.0,14,0.144967055812099,624663.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+22,horeca,2025-12-11,2026-01-10,6922000.0,30,0.0893247963979489,618306.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+84,retail,2025-10-25,2025-11-24,10159000.0,30,0.060797613196199335,617643.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+74,retail,2025-07-10,2025-07-24,3282000.0,14,0.18812176581309445,617416.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+23,horeca,2025-07-05,2025-09-03,9548000.0,60,0.06457447239817923,616557.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+78,grosir,2025-08-01,2025-09-30,7218000.0,60,0.08531897883154774,615832.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+24,grosir,2025-10-23,2025-11-22,10861000.0,30,0.05637838049857746,612326.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+96,retail,2025-12-30,2026-01-13,3228000.0,14,0.1887841094621752,609395.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+32,retail,2025-09-22,2025-10-22,6984000.0,30,0.08715953974441185,608722.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+63,grosir,2025-09-26,2025-11-25,9469000.0,60,0.0642438291253618,608325.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+114,retail,2025-09-27,2025-11-26,12108000.0,60,0.050211232681256476,607958.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+14,retail,2025-11-04,2025-12-04,11308000.0,30,0.05292843211898863,598515.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+12,grosir,2025-12-19,2026-01-18,6913000.0,30,0.08638757808190256,597197.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+145,retail,2025-07-29,2025-09-12,6654000.0,45,0.0895516386001643,595877.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+42,grosir,2025-07-09,2025-08-08,3060000.0,30,0.19359619824840726,592404.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+115,horeca,2025-07-19,2025-08-02,7441000.0,14,0.07958388974314706,592184.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+90,retail,2025-06-25,2025-08-09,931000.0,45,0.6317795528646709,588187.0,2. SEDANG (Medium Risk),1,Reminder otomatis via WhatsApp/Email H-3 & konfirmasi jadwal kliring
+36,retail,2025-10-15,2025-10-29,13297000.0,14,0.04414948946622159,587056.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+22,horeca,2025-09-25,2025-11-24,8425000.0,60,0.06935227511472168,584293.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+49,retail,2025-07-23,2025-08-22,4408000.0,30,0.13221878254848182,582820.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+19,grosir,2025-10-29,2025-12-28,15499000.0,60,0.03740857644024095,579796.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+37,grosir,2025-09-21,2025-11-20,11839000.0,60,0.04890839314422182,579026.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+118,retail,2025-09-12,2025-10-27,7166000.0,45,0.0805243021632434,577037.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+55,grosir,2025-10-06,2025-11-05,6692000.0,30,0.08605021871433634,575848.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+102,retail,2025-11-12,2025-12-12,4885000.0,30,0.1162941922658194,568097.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+63,grosir,2025-11-14,2025-12-29,10449000.0,45,0.0542157274974012,566500.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+112,retail,2025-09-21,2025-10-21,6678000.0,30,0.0847560202711044,566001.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+29,grosir,2025-11-13,2025-12-13,6235000.0,30,0.09071756334035942,565624.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+127,retail,2025-11-09,2025-12-09,9735000.0,30,0.05774799081760678,562177.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+78,grosir,2025-09-05,2025-10-05,7385000.0,30,0.07571963334006378,559189.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+102,retail,2025-09-12,2025-10-27,5470000.0,45,0.10193599766820452,557590.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+109,horeca,2025-10-02,2025-11-16,3702000.0,45,0.1505687476930463,557406.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+93,retail,2025-12-16,2026-01-15,20024000.0,30,0.027724109587496014,555148.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+31,horeca,2025-12-22,2026-02-05,5125000.0,45,0.10771676144758947,552048.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+138,grosir,2025-09-23,2025-10-07,5999000.0,14,0.09116139955525962,546877.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+102,retail,2025-08-15,2025-09-14,1510000.0,30,0.36214219084034144,546835.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+65,grosir,2025-12-03,2026-01-17,3035000.0,45,0.17999996601563195,546300.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+79,grosir,2025-12-02,2025-12-16,9467000.0,14,0.05760985543421904,545393.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+55,grosir,2025-08-20,2025-09-19,3389000.0,30,0.1602801555647389,543189.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+79,grosir,2025-12-24,2026-01-07,8077000.0,14,0.06664171083136983,538265.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+77,grosir,2025-10-22,2025-11-21,11000000.0,30,0.04855083685664187,534059.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+74,retail,2025-09-05,2025-10-05,10141000.0,30,0.05261294209147928,533548.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+14,retail,2025-07-31,2025-08-14,6542000.0,14,0.08012639932329198,524187.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+149,retail,2025-12-20,2026-01-03,5382000.0,14,0.0973144042374805,523746.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+72,horeca,2025-12-23,2026-01-22,4665000.0,30,0.11094317918958523,517550.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+15,retail,2025-12-03,2026-01-17,13766000.0,45,0.03737728657216543,514536.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+9,grosir,2025-12-23,2026-01-06,11121000.0,14,0.04593063730026837,510795.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+64,grosir,2025-11-01,2025-12-01,8941000.0,30,0.05699934040203781,509631.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+46,retail,2025-12-18,2026-01-17,4473000.0,30,0.11382672150476644,509147.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+65,grosir,2025-07-29,2025-08-28,10119000.0,30,0.05009570849156849,506918.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+114,retail,2025-11-03,2025-11-17,11285000.0,14,0.044659002638827786,503977.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+91,grosir,2025-11-14,2026-01-13,16652000.0,60,0.03017635835634938,502497.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+85,retail,2025-06-29,2025-08-28,6663000.0,60,0.0752561154336928,501431.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+132,grosir,2025-10-20,2025-12-04,4043000.0,45,0.1238627984623209,500777.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+138,grosir,2025-10-30,2025-11-13,8239000.0,14,0.06062726867827682,499508.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+137,grosir,2025-12-24,2026-01-23,9079000.0,30,0.05462967245449853,495983.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+40,retail,2025-08-27,2025-09-26,1729000.0,30,0.2836439336872806,490420.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+50,retail,2025-06-26,2025-07-10,7433000.0,14,0.06595159699982125,490218.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+6,grosir,2025-10-11,2025-11-25,10110000.0,45,0.04848399689547621,490173.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+59,retail,2025-12-30,2026-01-13,22015000.0,14,0.022208265627723326,488915.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+118,retail,2025-11-30,2026-01-14,3998000.0,45,0.1216050585729088,486177.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+29,grosir,2025-09-03,2025-10-03,12825000.0,30,0.037770489208146366,484407.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+16,grosir,2025-09-14,2025-10-14,7949000.0,30,0.06085222069237852,483714.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+142,horeca,2025-12-10,2026-01-09,6078000.0,30,0.07948295537406734,483097.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+23,horeca,2025-10-24,2025-12-23,8369000.0,60,0.057717952452727025,483042.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+14,retail,2025-11-04,2025-12-19,7999000.0,45,0.05986079445694099,478826.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+86,grosir,2025-09-06,2025-10-06,11933000.0,30,0.039960771698096836,476852.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+73,retail,2025-09-11,2025-10-11,3362000.0,30,0.14096286789480128,473917.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+11,horeca,2025-09-11,2025-09-25,6412000.0,14,0.07385838696710015,473580.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+130,retail,2025-09-12,2025-11-11,4894000.0,60,0.09658225645054361,472674.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+120,grosir,2025-08-23,2025-09-22,5957000.0,30,0.07912572545482481,471352.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+23,horeca,2025-07-11,2025-08-10,3051000.0,30,0.15388023578279353,469489.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+67,retail,2025-10-13,2025-11-12,8251000.0,30,0.05661420349714973,467124.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+51,retail,2025-10-15,2025-12-14,3032000.0,60,0.15402255803290124,466996.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+22,horeca,2025-12-24,2026-01-07,7980000.0,14,0.058469801421271575,466589.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+1,retail,2025-08-11,2025-10-10,10309000.0,60,0.045016181417763895,464072.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+45,horeca,2025-09-05,2025-10-20,3646000.0,45,0.12614087841550353,459910.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+37,grosir,2025-07-17,2025-07-31,9979000.0,14,0.045982753655027395,458862.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+33,retail,2025-08-09,2025-08-23,6183000.0,14,0.0740943088902368,458125.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+17,retail,2025-09-09,2025-10-24,9392000.0,45,0.048647957797870206,456902.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+120,grosir,2025-10-06,2025-10-20,4905000.0,14,0.09309415471608365,456627.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+23,horeca,2025-09-05,2025-11-04,10684000.0,60,0.04266364006953793,455818.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+78,grosir,2025-09-19,2025-10-19,10300000.0,30,0.04413897491973434,454631.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+54,grosir,2025-07-31,2025-08-30,6099000.0,30,0.07367508134243879,449344.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+45,horeca,2025-10-21,2025-12-05,10319000.0,45,0.043510388275339755,448984.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+94,retail,2025-10-05,2025-11-19,6513000.0,45,0.06884682644848679,448399.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+104,grosir,2025-10-08,2025-10-22,7060000.0,14,0.0629946236646813,444742.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+74,retail,2025-08-01,2025-08-31,5411000.0,30,0.08189859043420503,443153.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+88,retail,2025-10-07,2025-11-06,8556000.0,30,0.051773334929612,442973.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+124,retail,2025-11-20,2025-12-04,10897000.0,14,0.04040838940704958,440330.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+80,grosir,2025-09-15,2025-09-29,9050000.0,14,0.04827329500559206,436873.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+36,retail,2025-11-09,2026-01-08,8190000.0,60,0.053023783779941186,434265.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+66,grosir,2025-09-25,2025-11-09,6143000.0,45,0.0699000486127174,429396.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+34,grosir,2025-10-30,2025-11-29,6082000.0,30,0.07037365361230204,428013.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+30,grosir,2025-07-07,2025-08-06,2085000.0,30,0.20312714875318907,423520.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+88,retail,2025-10-27,2025-11-26,8469000.0,30,0.0499399367275844,422941.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+147,grosir,2025-12-01,2026-01-30,3273000.0,60,0.12897234690285875,422126.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+140,grosir,2025-07-12,2025-08-26,9944000.0,45,0.04243648152821579,421988.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+49,retail,2025-07-14,2025-08-28,6540000.0,45,0.06444645142337742,421480.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+51,retail,2025-11-27,2025-12-27,9491000.0,30,0.04428424701212538,420302.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+127,retail,2025-10-05,2025-11-04,4409000.0,30,0.09467219962218598,417410.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+85,retail,2025-11-16,2025-12-16,8427000.0,30,0.049213244767525664,414720.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+70,retail,2025-10-22,2025-11-21,8459000.0,30,0.048875316885609074,413436.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+66,grosir,2025-10-03,2025-11-02,6652000.0,30,0.06165954643473457,410159.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+119,grosir,2025-10-05,2025-11-04,2984000.0,30,0.13549516940620787,404318.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+107,retail,2025-12-12,2026-01-11,10520000.0,30,0.03824306834281749,402317.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+60,grosir,2025-09-25,2025-10-25,6750000.0,30,0.05943777869308636,401205.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+36,retail,2025-11-18,2025-12-18,3690000.0,30,0.10864706974684843,400908.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+113,grosir,2025-09-17,2025-10-17,9252000.0,30,0.04330979392340043,400702.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+10,retail,2025-09-13,2025-10-13,6947000.0,30,0.05748157844020957,399325.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+39,grosir,2025-07-18,2025-08-01,3715000.0,14,0.10727518857555964,398527.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+80,grosir,2025-06-26,2025-07-10,5776000.0,14,0.06852550373169938,395803.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+82,horeca,2025-11-12,2025-12-12,2850000.0,30,0.13865593636281298,395169.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+140,grosir,2025-12-23,2026-02-21,16437000.0,60,0.024033469785348784,395038.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+124,retail,2025-12-12,2026-01-11,2023000.0,30,0.19418017935993184,392827.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+28,retail,2025-11-26,2025-12-26,9812000.0,30,0.039431604493820396,386903.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+40,retail,2025-07-19,2025-08-18,8358000.0,30,0.046285205910476024,386852.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+123,retail,2025-10-04,2025-10-18,3732000.0,14,0.10359246284485817,386607.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+59,retail,2025-09-17,2025-10-17,3496000.0,30,0.11038622470776743,385910.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+70,retail,2025-12-13,2025-12-27,11672000.0,14,0.03298793156906217,385035.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+126,retail,2025-10-11,2025-11-25,8875000.0,45,0.04333899510406538,384634.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+124,retail,2025-09-22,2025-11-06,5327000.0,45,0.07202134196806541,383658.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+77,grosir,2025-11-17,2025-12-01,10089000.0,14,0.03787539963152171,382125.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+120,grosir,2025-12-27,2026-01-26,7992000.0,30,0.04775527400688258,381660.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+69,retail,2025-12-24,2026-01-23,5735000.0,30,0.06623914629177328,379882.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+68,retail,2025-10-02,2025-11-01,8784000.0,30,0.04311374319143675,378711.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+100,horeca,2025-07-26,2025-09-24,2302000.0,60,0.1641225862649503,377810.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+134,grosir,2025-09-07,2025-09-21,3446000.0,14,0.10828379522461429,373146.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+42,grosir,2025-09-15,2025-11-14,3811000.0,60,0.09577501905876916,364999.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+142,horeca,2025-09-18,2025-11-02,8887000.0,45,0.03997124756592206,355224.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+1,retail,2025-10-13,2025-10-27,4416000.0,14,0.08007886277151662,353628.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+88,retail,2025-12-07,2026-01-06,10328000.0,30,0.03416864416527322,352894.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+125,grosir,2025-07-13,2025-08-12,2372000.0,30,0.14795007928794784,350938.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+149,retail,2025-12-15,2025-12-29,2769000.0,14,0.12613260034469168,349261.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+16,grosir,2025-09-13,2025-10-13,7919000.0,30,0.044079770278401646,349068.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+28,retail,2025-07-11,2025-08-25,5159000.0,45,0.06745549302321126,348003.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+14,retail,2025-08-22,2025-09-21,4625000.0,30,0.07524314156086562,348000.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+127,retail,2025-09-26,2025-11-25,9794000.0,60,0.03550114266072914,347698.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+30,grosir,2025-07-31,2025-08-30,2621000.0,30,0.1322526839481044,346634.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+39,grosir,2025-09-03,2025-10-03,6122000.0,30,0.05556683232340789,340180.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+125,grosir,2025-12-01,2025-12-15,17829000.0,14,0.018991318722598204,338596.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+130,retail,2025-07-19,2025-08-02,2626000.0,14,0.12848481916416044,337401.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+137,grosir,2025-11-01,2025-12-01,7154000.0,30,0.04706936197545823,336734.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+137,grosir,2025-10-20,2025-12-04,4594000.0,45,0.07297577241646186,335251.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+43,retail,2025-11-17,2025-12-01,6873000.0,14,0.0487564683667265,335103.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+125,grosir,2025-09-17,2025-10-17,9231000.0,30,0.03570384548567078,329582.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+74,retail,2025-08-10,2025-09-09,4286000.0,30,0.07654827628055468,328086.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+113,grosir,2025-08-15,2025-09-29,4945000.0,45,0.06583575346697833,325558.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+83,retail,2025-09-03,2025-10-03,2349000.0,30,0.13852533670191322,325396.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+5,horeca,2025-12-11,2026-01-10,2865000.0,30,0.11341288156389341,324928.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+59,retail,2025-10-07,2025-10-21,10293000.0,14,0.031559574095342484,324843.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+113,grosir,2025-09-30,2025-11-29,9891000.0,60,0.03281321428033327,324556.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+96,retail,2025-11-14,2025-12-29,4158000.0,45,0.07772750296982664,323191.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+124,retail,2025-12-27,2026-01-26,3637000.0,30,0.08858155045601618,322171.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+117,grosir,2025-10-30,2025-11-29,9953000.0,30,0.03201735385820252,318669.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+9,grosir,2025-09-12,2025-09-26,5287000.0,14,0.059896165079462084,316671.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+126,retail,2025-09-16,2025-10-31,7426000.0,45,0.042373672217369804,314667.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+9,grosir,2025-12-06,2026-01-05,8044000.0,30,0.03885544308934327,312553.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+133,retail,2025-10-29,2025-11-12,1997000.0,14,0.15567204511115593,310877.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+140,grosir,2025-09-16,2025-11-15,10024000.0,60,0.030764204594314566,308380.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+42,grosir,2025-08-17,2025-10-01,6457000.0,45,0.04726941255319237,305219.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+65,grosir,2025-10-18,2025-11-01,7741000.0,14,0.038836379143078026,300632.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+54,grosir,2025-09-16,2025-10-16,3660000.0,30,0.0818226815947622,299471.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+37,grosir,2025-10-18,2025-11-01,3272000.0,14,0.0908276509521767,297188.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+63,grosir,2025-11-30,2025-12-14,5601000.0,14,0.0527337442574919,295362.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+102,retail,2025-11-04,2025-12-04,7068000.0,30,0.041732379823391695,294964.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+67,retail,2025-12-17,2026-01-16,9865000.0,30,0.029784139198039718,293821.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+56,grosir,2025-12-03,2026-01-17,5802000.0,45,0.05060156783442408,293590.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+32,retail,2025-11-05,2025-12-05,8646000.0,30,0.03377628430973451,292030.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+5,horeca,2025-12-05,2026-02-03,11727000.0,60,0.0244890764129047,287183.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+48,grosir,2025-10-31,2025-12-15,4349000.0,45,0.065901284944098,286605.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+115,horeca,2025-09-20,2025-10-20,10102000.0,30,0.0282507804181363,285389.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+133,retail,2025-09-18,2025-11-02,3708000.0,45,0.07679095957925434,284741.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+60,grosir,2025-11-18,2026-01-17,9164000.0,60,0.0309786323394669,283888.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+87,grosir,2025-08-11,2025-09-10,2599000.0,30,0.10905923026399,283445.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+144,grosir,2025-10-30,2025-11-29,6775000.0,30,0.041697672824552896,282502.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+56,grosir,2025-07-31,2025-08-14,4841000.0,14,0.05827873069323493,282127.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+46,retail,2025-08-20,2025-09-03,1981000.0,14,0.14240448695646638,282103.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+57,grosir,2025-09-25,2025-11-24,7521000.0,60,0.03739711882020093,281264.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+6,grosir,2025-11-25,2025-12-09,5399000.0,14,0.05207159864708995,281135.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+113,grosir,2025-10-10,2025-12-09,4794000.0,60,0.05801825848131695,278140.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+140,grosir,2025-11-11,2025-12-11,4706000.0,30,0.05884064993978684,276904.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+142,horeca,2025-12-25,2026-01-24,3027000.0,30,0.09144037099068401,276790.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+6,grosir,2025-12-01,2025-12-15,11408000.0,14,0.024246621876550044,276605.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+78,grosir,2025-11-22,2026-01-21,4607000.0,60,0.05976561461444768,275340.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+21,retail,2025-07-06,2025-08-20,5169000.0,45,0.053070220626451746,274320.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+38,retail,2025-09-29,2025-11-28,4717000.0,60,0.05748131187368182,271139.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+62,grosir,2025-12-12,2026-01-11,11292000.0,30,0.023732818140598032,267991.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+65,grosir,2025-11-10,2025-11-24,8309000.0,14,0.03173322916439744,263671.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+31,horeca,2025-12-27,2026-01-26,2035000.0,30,0.12878765871117911,262083.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+112,retail,2025-12-09,2026-01-23,2112000.0,45,0.12320077519694261,260200.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+108,retail,2025-10-02,2025-11-01,3580000.0,30,0.07228255192988933,258772.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+49,retail,2025-12-11,2026-01-25,6935000.0,45,0.03713760454474302,257549.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+0,grosir,2025-10-26,2025-11-25,2636000.0,30,0.09488375696651714,250114.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+19,grosir,2025-12-22,2026-02-05,12137000.0,45,0.020473916922454094,248492.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+139,retail,2025-12-11,2026-01-25,6906000.0,45,0.03565977635565156,246266.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+48,grosir,2025-06-28,2025-07-28,4366000.0,30,0.05545809001282101,242130.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+117,grosir,2025-11-10,2025-12-25,10046000.0,45,0.024024465944642335,241350.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+91,grosir,2025-12-29,2026-02-12,13284000.0,45,0.01814517606688091,241041.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+132,grosir,2025-10-15,2025-11-14,8424000.0,30,0.028323203384549595,238595.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+67,retail,2025-09-30,2025-11-29,3243000.0,60,0.07304424290987792,236882.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+6,grosir,2025-12-30,2026-01-29,7870000.0,30,0.02988217949901968,235173.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+124,retail,2025-07-09,2025-08-08,5236000.0,30,0.04488751652341726,235031.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+77,grosir,2025-09-28,2025-11-12,6085000.0,45,0.03846671548825499,234070.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+141,grosir,2025-11-08,2025-12-23,8765000.0,45,0.026580429031357815,232977.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+115,horeca,2025-08-09,2025-09-08,8677000.0,30,0.026747945507246608,232092.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+94,retail,2025-12-14,2026-01-28,12684000.0,45,0.018165583016214702,230412.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+13,horeca,2025-10-16,2025-11-15,3656000.0,30,0.06270073318361984,229234.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+59,retail,2025-10-03,2025-11-02,5485000.0,30,0.04150544781472413,227657.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+48,grosir,2025-12-22,2026-02-20,9852000.0,60,0.023083798996169524,227422.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+3,grosir,2025-11-27,2025-12-27,7143000.0,30,0.0314891399155749,224927.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+80,grosir,2025-12-29,2026-02-12,12661000.0,45,0.017662411464383694,223624.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+91,grosir,2025-12-15,2026-01-29,9224000.0,45,0.024229855280370815,223496.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+92,retail,2025-12-30,2026-01-29,9867000.0,30,0.022463825592883558,221651.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+114,retail,2025-07-22,2025-08-05,4884000.0,14,0.04520183628262484,220766.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+24,grosir,2025-11-29,2025-12-13,9292000.0,14,0.023458330496031327,217975.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+128,retail,2025-12-13,2026-02-11,4525000.0,60,0.047900107765792566,216748.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+62,grosir,2025-11-25,2025-12-25,5521000.0,30,0.039102060478610104,215882.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+52,grosir,2025-11-20,2026-01-04,9917000.0,45,0.02150550274142826,213270.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+138,grosir,2025-08-13,2025-10-12,3430000.0,60,0.06148278149652953,210886.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+137,grosir,2025-11-16,2025-12-31,3804000.0,45,0.055385442281746355,210686.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+67,retail,2025-10-25,2025-11-08,5266000.0,14,0.0393549714804791,207243.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+60,grosir,2025-11-24,2025-12-24,3069000.0,30,0.06733733547267018,206658.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+10,retail,2025-11-03,2025-12-03,7195000.0,30,0.028274745425819554,203437.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+44,horeca,2025-12-01,2025-12-15,3383000.0,14,0.05974851355752323,202129.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+60,grosir,2025-11-28,2025-12-28,4842000.0,30,0.041540069735282716,201137.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+87,grosir,2025-07-20,2025-08-19,2921000.0,30,0.06823095422997699,199303.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+98,retail,2025-12-28,2026-02-26,10941000.0,60,0.01812296564157051,198283.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+55,grosir,2025-12-16,2026-01-15,11150000.0,30,0.017667428061673998,196992.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+19,grosir,2025-09-11,2025-11-10,3816000.0,60,0.05085147906072927,194049.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+104,grosir,2025-12-28,2026-01-11,15391000.0,14,0.012542293902532932,193038.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+145,retail,2025-09-07,2025-10-07,7412000.0,30,0.025987403767057052,192619.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+81,retail,2025-09-01,2025-09-15,4122000.0,14,0.04601886232213168,189690.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+116,grosir,2025-08-14,2025-08-28,3591000.0,14,0.05110361001442193,183513.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+115,horeca,2025-08-27,2025-10-11,4404000.0,45,0.04163741020965809,183371.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+51,retail,2025-09-05,2025-11-04,5299000.0,60,0.03438237798360959,182192.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+54,grosir,2025-12-09,2026-01-08,10474000.0,30,0.01736503494160732,181881.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+66,grosir,2025-10-24,2025-11-07,6871000.0,14,0.026027877102248458,178838.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+48,grosir,2025-09-13,2025-11-12,4906000.0,60,0.036401347095657934,178585.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+74,retail,2025-10-26,2025-11-09,5723000.0,14,0.03072105910543496,175817.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+55,grosir,2025-11-15,2025-12-15,9551000.0,30,0.01818297807263516,173666.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+139,retail,2025-08-03,2025-09-17,2299000.0,45,0.07530161939056462,173118.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+14,retail,2025-12-23,2026-01-22,10479000.0,30,0.016308263740850003,170894.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+120,grosir,2025-09-06,2025-11-05,4320000.0,60,0.03921036621232255,169389.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+49,retail,2025-11-16,2026-01-15,6108000.0,60,0.027580083952622247,168459.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+116,grosir,2025-12-28,2026-02-11,11692000.0,45,0.014237121395226458,166460.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+104,grosir,2025-09-28,2025-10-12,3266000.0,14,0.0504026847531284,164615.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+85,retail,2025-12-25,2026-01-08,3452000.0,14,0.047679723548945334,164590.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+24,grosir,2025-12-27,2026-01-26,8595000.0,30,0.018985228576521202,163178.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+51,retail,2025-11-29,2025-12-29,2555000.0,30,0.06356885439916317,162418.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+37,grosir,2025-10-13,2025-11-12,6878000.0,30,0.023540368941907454,161911.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+38,retail,2025-09-15,2025-10-15,4297000.0,30,0.036251792369528545,155774.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+10,retail,2025-10-24,2025-11-07,7515000.0,14,0.02059882298787043,154800.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+36,retail,2025-11-20,2025-12-04,5453000.0,14,0.028356135698707638,154626.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+125,grosir,2025-12-16,2026-01-15,9097000.0,30,0.016798682528795395,152818.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+114,retail,2025-12-24,2026-01-07,11271000.0,14,0.013497088576862265,152126.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+45,horeca,2025-12-23,2026-02-06,2594000.0,45,0.05646951289471217,146482.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+21,retail,2025-11-24,2026-01-08,12605000.0,45,0.011437911469250259,144175.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+69,retail,2025-08-15,2025-08-29,7590000.0,14,0.018849942843445447,143071.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+67,retail,2025-12-29,2026-01-28,11277000.0,30,0.012592723767670228,142008.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+126,retail,2025-12-07,2026-02-05,10272000.0,60,0.013532718221471151,139008.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+36,retail,2025-07-18,2025-08-01,5181000.0,14,0.02680257003788911,138864.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+92,retail,2025-09-24,2025-11-23,5310000.0,60,0.0260236001967085,138185.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+86,grosir,2025-11-01,2025-12-16,2982000.0,45,0.046248281507506775,137912.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+5,horeca,2025-08-21,2025-09-20,2992000.0,30,0.04597863962211461,137568.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+5,horeca,2025-08-27,2025-09-26,2961000.0,30,0.04597863962211461,136143.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+50,retail,2025-12-29,2026-01-28,9377000.0,30,0.014512179596400228,136081.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+13,horeca,2025-07-22,2025-09-20,3634000.0,60,0.03703918274787968,134600.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+123,retail,2025-12-24,2026-01-23,12470000.0,30,0.010745426541553695,133995.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+98,retail,2025-12-14,2026-01-13,7395000.0,30,0.01794570896078565,132709.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+55,grosir,2025-12-08,2026-01-07,6668000.0,30,0.01985185827233703,132372.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+62,grosir,2025-09-18,2025-10-02,5791000.0,14,0.022799066388821138,132029.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+19,grosir,2025-09-07,2025-11-06,6871000.0,60,0.019210588472463347,131996.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+98,retail,2025-12-24,2026-01-07,11892000.0,14,0.011065574020599886,131592.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+48,grosir,2025-12-29,2026-02-27,6286000.0,60,0.020644944185717683,129774.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+137,grosir,2025-10-13,2025-11-12,5190000.0,30,0.024726168459988828,128329.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+39,grosir,2025-08-18,2025-09-17,2783000.0,30,0.0459902032189798,127991.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+140,grosir,2025-10-07,2025-10-21,5312000.0,14,0.023975236822396162,127356.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+120,grosir,2025-08-13,2025-09-27,6105000.0,45,0.02061821918768795,125874.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+70,retail,2025-12-29,2026-01-28,6219000.0,30,0.02017397035587319,125462.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+51,retail,2025-12-10,2026-01-09,6916000.0,30,0.01804068836035739,124769.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+127,retail,2025-10-16,2025-11-15,2059000.0,30,0.06044171624781382,124449.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+126,retail,2025-09-12,2025-10-12,3198000.0,30,0.0386965668633678,123752.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+78,grosir,2025-12-17,2026-01-31,7720000.0,45,0.01598449986170363,123400.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+84,retail,2025-09-20,2025-10-04,3851000.0,14,0.032027719481210096,123339.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+24,grosir,2025-12-29,2026-02-27,9334000.0,60,0.013152328478634201,122764.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+29,grosir,2025-07-06,2025-07-20,3529000.0,14,0.03473861695902527,122593.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+52,grosir,2025-12-26,2026-01-25,6973000.0,30,0.017533534426906354,122261.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+132,grosir,2025-11-15,2025-11-29,3676000.0,14,0.03322568293263426,122138.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+51,retail,2025-12-30,2026-01-29,9658000.0,30,0.012594698396024579,121640.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+87,grosir,2025-09-25,2025-10-25,4501000.0,30,0.02649334695843666,119247.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+116,grosir,2025-12-01,2026-01-30,4685000.0,60,0.02524868889913723,118290.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+42,grosir,2025-10-10,2025-11-09,5745000.0,30,0.020498945730944528,117766.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+129,grosir,2025-10-29,2025-11-28,5052000.0,30,0.023052343948579024,116460.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+141,grosir,2025-09-21,2025-10-05,6126000.0,14,0.018598705674314837,113936.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+4,retail,2025-11-02,2025-12-02,9677000.0,30,0.011709005164119362,113308.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+4,retail,2025-12-04,2026-01-18,3815000.0,45,0.02932353685570618,111869.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+107,retail,2025-11-26,2025-12-10,4689000.0,14,0.02346514934345631,110028.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+65,grosir,2025-08-16,2025-09-15,3640000.0,30,0.03003692193265605,109334.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+98,retail,2025-12-30,2026-01-29,5817000.0,30,0.01850693647020114,107655.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+109,horeca,2025-12-16,2026-01-15,1694000.0,30,0.06315863719386669,106991.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+41,horeca,2025-10-30,2025-11-29,2702000.0,30,0.03955834868212464,106887.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+66,grosir,2025-09-26,2025-11-25,3862000.0,60,0.0275128247365452,106255.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+75,retail,2025-11-13,2025-12-28,2151000.0,45,0.04878789616051326,104943.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+30,grosir,2025-12-30,2026-01-29,7387000.0,30,0.01407740043171589,103990.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+128,retail,2025-07-18,2025-08-17,2852000.0,30,0.03491325175027658,99573.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+66,grosir,2025-11-30,2025-12-14,5974000.0,14,0.016534817513788002,98779.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+65,grosir,2025-11-23,2025-12-23,2028000.0,30,0.04756052445488546,96453.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+94,retail,2025-11-25,2025-12-09,9092000.0,14,0.010580951116582905,96202.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+95,grosir,2025-12-29,2026-01-28,5814000.0,30,0.016474344953336124,95782.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+3,grosir,2025-12-13,2026-02-11,11751000.0,60,0.00802709546807469,94326.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+123,retail,2025-12-29,2026-01-12,3034000.0,14,0.030530700998472205,92630.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+125,grosir,2025-08-29,2025-10-13,948000.0,45,0.09766460198631126,92586.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+116,grosir,2025-11-11,2025-11-25,9829000.0,14,0.009419451604736794,92584.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+9,grosir,2025-12-10,2026-01-09,4687000.0,30,0.019741582815139283,92529.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+18,horeca,2025-11-07,2026-01-06,6678000.0,60,0.013837624266123477,92408.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+60,grosir,2025-12-21,2026-02-04,2996000.0,45,0.030054547539323243,90043.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+115,horeca,2025-12-16,2026-01-15,5257000.0,30,0.017027273258961202,89512.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+147,grosir,2025-12-19,2026-01-18,9432000.0,30,0.00933566563658709,88054.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+59,retail,2025-08-15,2025-10-14,1800000.0,60,0.04879391154970953,87829.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+21,retail,2025-12-23,2026-01-06,2604000.0,14,0.033133288361956316,86279.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+4,retail,2025-12-07,2026-01-06,8367000.0,30,0.009793375084465499,81941.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+133,retail,2025-12-01,2026-01-15,1327000.0,45,0.06053157342253741,80325.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+29,grosir,2025-12-30,2026-01-13,3584000.0,14,0.022406095219867094,80303.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+127,retail,2025-10-24,2025-11-23,3390000.0,30,0.023257074733019318,78841.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+147,grosir,2025-12-12,2026-01-26,9441000.0,45,0.008341838261025629,78755.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+10,retail,2025-12-17,2026-01-31,3189000.0,45,0.023748654491282863,75734.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+74,retail,2025-12-21,2026-01-20,4092000.0,30,0.01829138410774181,74848.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+55,grosir,2025-12-06,2026-01-05,5548000.0,30,0.013141580890553933,72909.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+138,grosir,2025-12-21,2026-01-20,5056000.0,30,0.014399751544199152,72805.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+43,retail,2025-10-06,2025-11-05,2710000.0,30,0.02581792776584373,69967.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+114,retail,2025-10-03,2025-11-17,1569000.0,45,0.04444023939464967,69727.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+44,horeca,2025-12-05,2025-12-19,9961000.0,14,0.006824117315909461,67975.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+15,retail,2025-12-16,2026-01-30,5544000.0,45,0.011937269243447268,66180.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+98,retail,2025-12-30,2026-02-13,2082000.0,45,0.031205973565203857,64971.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+5,horeca,2025-09-10,2025-10-10,3257000.0,30,0.019703303579022984,64174.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+31,horeca,2025-11-09,2025-12-09,2009000.0,30,0.03155762463626594,63399.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+138,grosir,2025-12-20,2026-01-19,4310000.0,30,0.014579358254349103,62837.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+130,retail,2025-10-03,2025-11-02,2921000.0,30,0.021506153906380797,62819.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+91,grosir,2025-10-18,2025-12-02,5223000.0,45,0.011909951818913772,62206.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+62,grosir,2025-09-30,2025-10-30,2877000.0,30,0.021359006518808905,61450.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+46,retail,2025-11-14,2025-12-14,871000.0,30,0.06733664358970688,58650.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+10,retail,2025-10-06,2025-11-05,5473000.0,30,0.010701800052712897,58571.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+129,grosir,2025-09-03,2025-10-18,2933000.0,45,0.018237553504466094,53491.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+138,grosir,2025-10-25,2025-11-08,4379000.0,14,0.012142505089918581,53172.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+75,retail,2025-09-06,2025-10-06,2998000.0,30,0.016708782694557837,50093.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+63,grosir,2025-07-16,2025-08-15,2322000.0,30,0.021067391897080522,48918.0,3. RENDAH (Low Risk),1,Pengiriman invoice standar sesuai termin biasa
+126,retail,2025-08-01,2025-08-31,1526000.0,30,0.03168644212236876,48354.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+72,horeca,2025-10-20,2025-11-19,2418000.0,30,0.01920011259183514,46426.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+144,grosir,2025-10-01,2025-11-15,1022000.0,45,0.04240465479673517,43338.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+38,retail,2025-12-20,2026-01-19,886000.0,30,0.04688151272498719,41537.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+105,grosir,2025-12-21,2026-02-04,2393000.0,45,0.017029097180332756,40751.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+61,grosir,2025-12-07,2026-02-05,2867000.0,60,0.014001328585458628,40142.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+1,retail,2025-11-09,2025-12-24,2521000.0,45,0.015916657416862653,40126.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+15,retail,2025-10-16,2025-10-30,2737000.0,14,0.01393165629036346,38131.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+74,retail,2025-12-03,2026-01-02,4764000.0,30,0.007970962049342983,37974.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+74,retail,2025-11-12,2026-01-11,2733000.0,60,0.013171465404688342,35998.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+4,retail,2025-11-04,2025-11-18,5496000.0,14,0.006462270901125867,35517.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+126,retail,2025-12-03,2026-01-02,1660000.0,30,0.021393973840309142,35514.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+55,grosir,2025-10-28,2025-11-11,2691000.0,14,0.012458539936615495,33526.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+139,retail,2025-10-07,2025-11-06,2025000.0,30,0.01616420550300281,32733.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+55,grosir,2025-12-28,2026-01-11,5265000.0,14,0.005950958134974216,31332.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+108,retail,2025-11-13,2025-12-13,2732000.0,30,0.011326678025416701,30944.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+45,horeca,2025-08-21,2025-09-20,1481000.0,30,0.020740731741260884,30717.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+91,grosir,2025-12-15,2026-01-14,5767000.0,30,0.005205354051258628,30019.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+17,retail,2025-11-04,2025-12-04,2451000.0,30,0.011672235585934294,28609.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+78,grosir,2025-12-04,2026-01-18,1968000.0,45,0.013925558154589233,27405.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+1,retail,2025-09-17,2025-10-17,727000.0,30,0.03563333257044409,25905.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+75,retail,2025-09-17,2025-10-17,1574000.0,30,0.016074904234492485,25302.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+127,retail,2025-10-05,2025-10-19,5736000.0,14,0.003984420053618873,22855.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+138,grosir,2025-09-12,2025-10-12,1370000.0,30,0.01619790506129188,22191.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+134,grosir,2025-06-30,2025-07-30,981000.0,30,0.02091528021546711,20518.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+98,retail,2025-12-09,2026-01-08,1137000.0,30,0.017697517005228723,20122.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+24,grosir,2025-11-02,2025-12-17,976000.0,45,0.019786309058398562,19311.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+101,grosir,2025-11-01,2025-12-31,3177000.0,60,0.0060279654331895265,19151.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+70,retail,2025-09-24,2025-11-23,1997000.0,60,0.009586740801155435,19145.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+115,horeca,2025-12-28,2026-01-27,1478000.0,30,0.012068605758457147,17837.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+42,grosir,2025-10-03,2025-10-17,1534000.0,14,0.009550320147275578,14650.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+91,grosir,2025-12-23,2026-01-06,2463000.0,14,0.005929339836985955,14604.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+14,retail,2025-11-12,2025-11-26,1043000.0,14,0.01197974994616908,12495.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+17,retail,2025-09-23,2025-10-23,2016000.0,30,0.006131267308967165,12361.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+140,grosir,2025-12-11,2026-01-10,2330000.0,30,0.0051385104877039595,11973.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+120,grosir,2025-09-11,2025-10-11,1194000.0,30,0.01000557966634331,11947.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+62,grosir,2025-12-19,2026-01-18,1763000.0,30,0.006695102397259627,11803.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+87,grosir,2025-10-30,2025-12-29,1071000.0,60,0.009449538527159707,10120.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+147,grosir,2025-11-11,2025-12-11,776000.0,30,0.010812835419316234,8391.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+80,grosir,2025-10-02,2025-11-01,542000.0,30,0.015435931947021038,8366.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+6,grosir,2025-12-08,2025-12-22,1115000.0,14,0.005746404484656193,6407.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+104,grosir,2025-10-19,2025-12-03,1422000.0,45,0.004488606825654082,6383.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
+86,grosir,2025-10-22,2025-11-21,1084000.0,30,0.003693422812600875,4004.0,3. RENDAH (Low Risk),0,Pengiriman invoice standar sesuai termin biasa
